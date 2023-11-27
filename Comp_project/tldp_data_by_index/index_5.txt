@@ -1,0 +1,3750 @@
+ID: 13292
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5, 5, 5
+Order: 3
+Volume: 28
+Degree: 16/5
+Num Vertices: 6
+Num Boundary: 8
+Num Interior: 11
+Vertices: (-3, 5), (-2, 5), (-1, 3), (1, -2), (2, -5), (3, -10)
+Dual: (-5, -2), (-3, -1), (-2, -1), (-1, -1/5), (0, -1/5), (1, 2/5)
+Boundary: (-3, 5), (-2, 5), (-1, 0), (-1, 3), (1, -5), (1, -2), (2, -5), (3, -10)
+Interior: (-2, 3), (-2, 4), (-1, 1), (-1, 2), (0, -2), (0, -1), (0, 0), (1, -4), (1, -3), (2, -7), (2, -6)
+
+ID: 13293
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5, 5, 5
+Order: 3
+Volume: 23
+Degree: 17/5
+Num Vertices: 6
+Num Boundary: 7
+Num Interior: 9
+Vertices: (-2, 5), (-1, 2), (-1, 5), (1, -3), (2, -5), (3, -5)
+Dual: (-1, -2/5), (0, -1/5), (0, 1/5), (2, 1), (3, 1), (5, 2)
+Boundary: (-2, 5), (-1, 2), (-1, 5), (1, -3), (1, 0), (2, -5), (3, -5)
+Interior: (-1, 3), (-1, 4), (0, 0), (0, 1), (0, 2), (1, -2), (1, -1), (2, -4), (2, -3)
+
+ID: 13294
+Min Loc Index: 5
+Max Loc Index: 5
+Local Indices: 5, 5, 5, 5, 5, 5
+Order: 3
+Volume: 30
+Degree: 6/5
+Num Vertices: 6
+Num Boundary: 6
+Num Interior: 13
+Vertices: (-2, 5), (-1, 0), (-1, 5), (1, -5), (1, 0), (2, -5)
+Dual: (-1, -2/5), (-1, -1/5), (0, -1/5), (0, 1/5), (1, 1/5), (1, 2/5)
+Boundary: (-2, 5), (-1, 0), (-1, 5), (1, -5), (1, 0), (2, -5)
+Interior: (-1, 1), (-1, 2), (-1, 3), (-1, 4), (0, -2), (0, -1), (0, 0), (0, 1), (0, 2), (1, -4), (1, -3), (1, -2), (1, -1)
+
+ID: 13295
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5, 5, 5
+Order: 3
+Volume: 18
+Degree: 18/5
+Num Vertices: 6
+Num Boundary: 6
+Num Interior: 7
+Vertices: (-2, 5), (-1, 0), (-1, 5), (0, 1), (1, -5), (1, -4)
+Dual: (-5, -1), (-4, -1), (-1, 0), (0, -1/5), (1, 1/5), (1, 2/5)
+Boundary: (-2, 5), (-1, 0), (-1, 5), (0, 1), (1, -5), (1, -4)
+Interior: (-1, 1), (-1, 2), (-1, 3), (-1, 4), (0, -2), (0, -1), (0, 0)
+
+ID: 13296
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5, 5, 5
+Order: 3
+Volume: 18
+Degree: 18/5
+Num Vertices: 6
+Num Boundary: 6
+Num Interior: 7
+Vertices: (-2, 5), (-1, 2), (-1, 5), (1, -3), (1, 0), (2, -5)
+Dual: (-1, -2/5), (-1, -1/5), (0, -1/5), (2, 1), (3, 1), (5, 2)
+Boundary: (-2, 5), (-1, 2), (-1, 5), (1, -3), (1, 0), (2, -5)
+Interior: (-1, 3), (-1, 4), (0, 0), (0, 1), (0, 2), (1, -2), (1, -1)
+
+ID: 13297
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 1, 5
+Order: 5
+Volume: 23
+Degree: 17/5
+Num Vertices: 5
+Num Boundary: 15
+Num Interior: 5
+Vertices: (-10, -1), (0, -1), (0, 1), (1, 0), (1, 1)
+Dual: (-1, 0), (-1, 1), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (-4, -1), (-3, -1), (-2, -1), (-1, -1), (0, -1), (0, 1), (1, 0), (1, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13298
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 1, 5
+Order: 5
+Volume: 23
+Degree: 17/5
+Num Vertices: 5
+Num Boundary: 15
+Num Interior: 5
+Vertices: (-10, -1), (-1, -1), (0, 1), (1, 0), (2, 1)
+Dual: (-1, 1), (-1, 2), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (-4, -1), (-3, -1), (-2, -1), (-1, -1), (0, 1), (1, 0), (1, 1), (2, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13299
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 1, 5
+Order: 5
+Volume: 23
+Degree: 17/5
+Num Vertices: 5
+Num Boundary: 15
+Num Interior: 5
+Vertices: (-10, -1), (-2, -1), (0, 1), (1, 0), (3, 1)
+Dual: (-1, 2), (-1, 3), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (-4, -1), (-3, -1), (-2, -1), (0, 1), (1, 0), (1, 1), (2, 1), (3, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13300
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 1, 5
+Order: 5
+Volume: 23
+Degree: 17/5
+Num Vertices: 5
+Num Boundary: 15
+Num Interior: 5
+Vertices: (-10, -1), (-3, -1), (0, 1), (1, 0), (4, 1)
+Dual: (-1, 3), (-1, 4), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (-4, -1), (-3, -1), (0, 1), (1, 0), (1, 1), (2, 1), (3, 1), (4, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13301
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 1, 5
+Order: 5
+Volume: 23
+Degree: 17/5
+Num Vertices: 5
+Num Boundary: 15
+Num Interior: 5
+Vertices: (-10, -1), (-4, -1), (0, 1), (1, 0), (5, 1)
+Dual: (-1, 4), (-1, 5), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (-4, -1), (0, 1), (1, 0), (1, 1), (2, 1), (3, 1), (4, 1), (5, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13302
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5, 5
+Order: 5
+Volume: 38
+Degree: 14/5
+Num Vertices: 5
+Num Boundary: 14
+Num Interior: 13
+Vertices: (-1, -1), (-1, 5), (0, -1), (1, 0), (4, 5)
+Dual: (-1, 3/5), (-1, 1), (0, -1/5), (0, 1), (1, 0)
+Boundary: (-1, -1), (-1, 0), (-1, 1), (-1, 2), (-1, 3), (-1, 4), (-1, 5), (0, -1), (0, 5), (1, 0), (1, 5), (2, 5), (3, 5), (4, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4), (2, 2), (2, 3), (2, 4), (3, 4)
+
+ID: 13303
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 1, 5
+Order: 5
+Volume: 22
+Degree: 22/5
+Num Vertices: 5
+Num Boundary: 14
+Num Interior: 5
+Vertices: (-10, -1), (-1, -1), (0, 1), (1, 0), (1, 1)
+Dual: (-1, 0), (-1, 2), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (-4, -1), (-3, -1), (-2, -1), (-1, -1), (0, 1), (1, 0), (1, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13304
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 1, 5
+Order: 5
+Volume: 22
+Degree: 22/5
+Num Vertices: 5
+Num Boundary: 14
+Num Interior: 5
+Vertices: (-10, -1), (-2, -1), (0, 1), (1, 0), (2, 1)
+Dual: (-1, 1), (-1, 3), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (-4, -1), (-3, -1), (-2, -1), (0, 1), (1, 0), (1, 1), (2, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13305
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 1, 5
+Order: 5
+Volume: 22
+Degree: 22/5
+Num Vertices: 5
+Num Boundary: 14
+Num Interior: 5
+Vertices: (-10, -1), (-3, -1), (0, 1), (1, 0), (3, 1)
+Dual: (-1, 2), (-1, 4), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (-4, -1), (-3, -1), (0, 1), (1, 0), (1, 1), (2, 1), (3, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13306
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 1, 5
+Order: 5
+Volume: 22
+Degree: 22/5
+Num Vertices: 5
+Num Boundary: 14
+Num Interior: 5
+Vertices: (-10, -1), (-4, -1), (0, 1), (1, 0), (4, 1)
+Dual: (-1, 3), (-1, 5), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (-4, -1), (0, 1), (1, 0), (1, 1), (2, 1), (3, 1), (4, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13307
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 1, 5
+Order: 5
+Volume: 22
+Degree: 22/5
+Num Vertices: 5
+Num Boundary: 14
+Num Interior: 5
+Vertices: (-10, -1), (-5, -1), (0, 1), (1, 0), (5, 1)
+Dual: (-1, 4), (-1, 6), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (0, 1), (1, 0), (1, 1), (2, 1), (3, 1), (4, 1), (5, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13308
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5, 5
+Order: 5
+Volume: 37
+Degree: 19/5
+Num Vertices: 5
+Num Boundary: 13
+Num Interior: 13
+Vertices: (-1, 0), (-1, 5), (0, -1), (1, 0), (4, 5)
+Dual: (-1, 3/5), (-1, 1), (0, -1/5), (1, 0), (1, 1)
+Boundary: (-1, 0), (-1, 1), (-1, 2), (-1, 3), (-1, 4), (-1, 5), (0, -1), (0, 5), (1, 0), (1, 5), (2, 5), (3, 5), (4, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4), (2, 2), (2, 3), (2, 4), (3, 4)
+
+ID: 13309
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5, 5
+Order: 5
+Volume: 33
+Degree: 3
+Num Vertices: 5
+Num Boundary: 13
+Num Interior: 11
+Vertices: (-1, -1), (-1, 5), (0, -1), (1, 0), (3, 5)
+Dual: (-1, 2/5), (-1, 1), (0, -1/5), (0, 1), (1, 0)
+Boundary: (-1, -1), (-1, 0), (-1, 1), (-1, 2), (-1, 3), (-1, 4), (-1, 5), (0, -1), (0, 5), (1, 0), (1, 5), (2, 5), (3, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4), (2, 3), (2, 4)
+
+ID: 13310
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 1, 5
+Order: 5
+Volume: 21
+Degree: 27/5
+Num Vertices: 5
+Num Boundary: 13
+Num Interior: 5
+Vertices: (-10, -1), (-2, -1), (0, 1), (1, 0), (1, 1)
+Dual: (-1, 0), (-1, 3), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (-4, -1), (-3, -1), (-2, -1), (0, 1), (1, 0), (1, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13311
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 1, 5
+Order: 5
+Volume: 21
+Degree: 27/5
+Num Vertices: 5
+Num Boundary: 13
+Num Interior: 5
+Vertices: (-10, -1), (-3, -1), (0, 1), (1, 0), (2, 1)
+Dual: (-1, 1), (-1, 4), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (-4, -1), (-3, -1), (0, 1), (1, 0), (1, 1), (2, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13312
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 1, 5
+Order: 5
+Volume: 21
+Degree: 27/5
+Num Vertices: 5
+Num Boundary: 13
+Num Interior: 5
+Vertices: (-10, -1), (-4, -1), (0, 1), (1, 0), (3, 1)
+Dual: (-1, 2), (-1, 5), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (-4, -1), (0, 1), (1, 0), (1, 1), (2, 1), (3, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13313
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 1, 5
+Order: 5
+Volume: 21
+Degree: 27/5
+Num Vertices: 5
+Num Boundary: 13
+Num Interior: 5
+Vertices: (-10, -1), (-5, -1), (0, 1), (1, 0), (4, 1)
+Dual: (-1, 3), (-1, 6), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (0, 1), (1, 0), (1, 1), (2, 1), (3, 1), (4, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13314
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5, 5
+Order: 5
+Volume: 52
+Degree: 16/5
+Num Vertices: 5
+Num Boundary: 12
+Num Interior: 21
+Vertices: (-4, 5), (-1, 0), (0, -1), (1, 0), (4, 5)
+Dual: (-1, 3/5), (-1, 1), (0, -1/5), (1, 3/5), (1, 1)
+Boundary: (-4, 5), (-3, 5), (-2, 5), (-1, 0), (-1, 5), (0, -1), (0, 5), (1, 0), (1, 5), (2, 5), (3, 5), (4, 5)
+Interior: (-3, 4), (-2, 2), (-2, 3), (-2, 4), (-1, 1), (-1, 2), (-1, 3), (-1, 4), (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4), (2, 2), (2, 3), (2, 4), (3, 4)
+
+ID: 13315
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5, 5
+Order: 5
+Volume: 36
+Degree: 24/5
+Num Vertices: 5
+Num Boundary: 12
+Num Interior: 13
+Vertices: (-1, 1), (-1, 5), (0, -1), (1, 0), (4, 5)
+Dual: (-1, 3/5), (-1, 1), (0, -1/5), (1, 0), (2, 1)
+Boundary: (-1, 1), (-1, 2), (-1, 3), (-1, 4), (-1, 5), (0, -1), (0, 5), (1, 0), (1, 5), (2, 5), (3, 5), (4, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4), (2, 2), (2, 3), (2, 4), (3, 4)
+
+ID: 13316
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5, 5
+Order: 5
+Volume: 32
+Degree: 4
+Num Vertices: 5
+Num Boundary: 12
+Num Interior: 11
+Vertices: (-1, 0), (-1, 5), (0, -1), (1, 0), (3, 5)
+Dual: (-1, 2/5), (-1, 1), (0, -1/5), (1, 0), (1, 1)
+Boundary: (-1, 0), (-1, 1), (-1, 2), (-1, 3), (-1, 4), (-1, 5), (0, -1), (0, 5), (1, 0), (1, 5), (2, 5), (3, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4), (2, 3), (2, 4)
+
+ID: 13317
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5, 5
+Order: 5
+Volume: 28
+Degree: 16/5
+Num Vertices: 5
+Num Boundary: 12
+Num Interior: 9
+Vertices: (-1, -1), (-1, 5), (0, -1), (1, 0), (2, 5)
+Dual: (-1, 1/5), (-1, 1), (0, -1/5), (0, 1), (1, 0)
+Boundary: (-1, -1), (-1, 0), (-1, 1), (-1, 2), (-1, 3), (-1, 4), (-1, 5), (0, -1), (0, 5), (1, 0), (1, 5), (2, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4)
+
+ID: 13318
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 1, 5
+Order: 5
+Volume: 20
+Degree: 32/5
+Num Vertices: 5
+Num Boundary: 12
+Num Interior: 5
+Vertices: (-10, -1), (-3, -1), (0, 1), (1, 0), (1, 1)
+Dual: (-1, 0), (-1, 4), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (-4, -1), (-3, -1), (0, 1), (1, 0), (1, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13319
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 1, 5
+Order: 5
+Volume: 20
+Degree: 32/5
+Num Vertices: 5
+Num Boundary: 12
+Num Interior: 5
+Vertices: (-10, -1), (-4, -1), (0, 1), (1, 0), (2, 1)
+Dual: (-1, 1), (-1, 5), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (-4, -1), (0, 1), (1, 0), (1, 1), (2, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13320
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 1, 5
+Order: 5
+Volume: 20
+Degree: 32/5
+Num Vertices: 5
+Num Boundary: 12
+Num Interior: 5
+Vertices: (-10, -1), (-5, -1), (0, 1), (1, 0), (3, 1)
+Dual: (-1, 2), (-1, 6), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (0, 1), (1, 0), (1, 1), (2, 1), (3, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13321
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 1, 5
+Order: 5
+Volume: 20
+Degree: 32/5
+Num Vertices: 5
+Num Boundary: 12
+Num Interior: 5
+Vertices: (-10, -1), (-6, -1), (0, 1), (1, 0), (4, 1)
+Dual: (-1, 3), (-1, 7), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, 0), (0, 1), (1, 0), (1, 1), (2, 1), (3, 1), (4, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13322
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5, 5
+Order: 5
+Volume: 47
+Degree: 17/5
+Num Vertices: 5
+Num Boundary: 11
+Num Interior: 19
+Vertices: (-3, 5), (-1, 0), (0, -1), (1, 0), (4, 5)
+Dual: (-1, 3/5), (-1, 1), (0, -1/5), (1, 2/5), (1, 1)
+Boundary: (-3, 5), (-2, 5), (-1, 0), (-1, 5), (0, -1), (0, 5), (1, 0), (1, 5), (2, 5), (3, 5), (4, 5)
+Interior: (-2, 3), (-2, 4), (-1, 1), (-1, 2), (-1, 3), (-1, 4), (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4), (2, 2), (2, 3), (2, 4), (3, 4)
+
+ID: 13323
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5, 5
+Order: 5
+Volume: 35
+Degree: 29/5
+Num Vertices: 5
+Num Boundary: 11
+Num Interior: 13
+Vertices: (-1, 2), (-1, 5), (0, -1), (1, 0), (4, 5)
+Dual: (-1, 3/5), (-1, 1), (0, -1/5), (1, 0), (3, 1)
+Boundary: (-1, 2), (-1, 3), (-1, 4), (-1, 5), (0, -1), (0, 5), (1, 0), (1, 5), (2, 5), (3, 5), (4, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4), (2, 2), (2, 3), (2, 4), (3, 4)
+
+ID: 13324
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5, 5
+Order: 5
+Volume: 31
+Degree: 5
+Num Vertices: 5
+Num Boundary: 11
+Num Interior: 11
+Vertices: (-1, 1), (-1, 5), (0, -1), (1, 0), (3, 5)
+Dual: (-1, 2/5), (-1, 1), (0, -1/5), (1, 0), (2, 1)
+Boundary: (-1, 1), (-1, 2), (-1, 3), (-1, 4), (-1, 5), (0, -1), (0, 5), (1, 0), (1, 5), (2, 5), (3, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4), (2, 3), (2, 4)
+
+ID: 13325
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5, 5
+Order: 5
+Volume: 27
+Degree: 21/5
+Num Vertices: 5
+Num Boundary: 11
+Num Interior: 9
+Vertices: (-1, 0), (-1, 5), (0, -1), (1, 0), (2, 5)
+Dual: (-1, 1/5), (-1, 1), (0, -1/5), (1, 0), (1, 1)
+Boundary: (-1, 0), (-1, 1), (-1, 2), (-1, 3), (-1, 4), (-1, 5), (0, -1), (0, 5), (1, 0), (1, 5), (2, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4)
+
+ID: 13326
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 1, 5
+Order: 5
+Volume: 19
+Degree: 37/5
+Num Vertices: 5
+Num Boundary: 11
+Num Interior: 5
+Vertices: (-10, -1), (-4, -1), (0, 1), (1, 0), (1, 1)
+Dual: (-1, 0), (-1, 5), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (-4, -1), (0, 1), (1, 0), (1, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13327
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 1, 5
+Order: 5
+Volume: 19
+Degree: 37/5
+Num Vertices: 5
+Num Boundary: 11
+Num Interior: 5
+Vertices: (-10, -1), (-5, -1), (0, 1), (1, 0), (2, 1)
+Dual: (-1, 1), (-1, 6), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (0, 1), (1, 0), (1, 1), (2, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13328
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 1, 5
+Order: 5
+Volume: 19
+Degree: 37/5
+Num Vertices: 5
+Num Boundary: 11
+Num Interior: 5
+Vertices: (-10, -1), (-6, -1), (0, 1), (1, 0), (3, 1)
+Dual: (-1, 2), (-1, 7), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, 0), (0, 1), (1, 0), (1, 1), (2, 1), (3, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13329
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5, 5
+Order: 5
+Volume: 42
+Degree: 18/5
+Num Vertices: 5
+Num Boundary: 10
+Num Interior: 17
+Vertices: (-2, 5), (-1, 0), (0, -1), (1, 0), (4, 5)
+Dual: (-1, 3/5), (-1, 1), (0, -1/5), (1, 1/5), (1, 1)
+Boundary: (-2, 5), (-1, 0), (-1, 5), (0, -1), (0, 5), (1, 0), (1, 5), (2, 5), (3, 5), (4, 5)
+Interior: (-1, 1), (-1, 2), (-1, 3), (-1, 4), (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4), (2, 2), (2, 3), (2, 4), (3, 4)
+
+ID: 13330
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5, 5
+Order: 5
+Volume: 42
+Degree: 18/5
+Num Vertices: 5
+Num Boundary: 10
+Num Interior: 17
+Vertices: (-3, 5), (-1, 0), (0, -1), (1, 0), (3, 5)
+Dual: (-1, 2/5), (-1, 1), (0, -1/5), (1, 2/5), (1, 1)
+Boundary: (-3, 5), (-2, 5), (-1, 0), (-1, 5), (0, -1), (0, 5), (1, 0), (1, 5), (2, 5), (3, 5)
+Interior: (-2, 3), (-2, 4), (-1, 1), (-1, 2), (-1, 3), (-1, 4), (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4), (2, 3), (2, 4)
+
+ID: 13331
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5, 5
+Order: 5
+Volume: 34
+Degree: 34/5
+Num Vertices: 5
+Num Boundary: 10
+Num Interior: 13
+Vertices: (-1, 3), (-1, 5), (0, -1), (1, 0), (4, 5)
+Dual: (-1, 3/5), (-1, 1), (0, -1/5), (1, 0), (4, 1)
+Boundary: (-1, 3), (-1, 4), (-1, 5), (0, -1), (0, 5), (1, 0), (1, 5), (2, 5), (3, 5), (4, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4), (2, 2), (2, 3), (2, 4), (3, 4)
+
+ID: 13332
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5, 5
+Order: 5
+Volume: 30
+Degree: 6
+Num Vertices: 5
+Num Boundary: 10
+Num Interior: 11
+Vertices: (-1, 2), (-1, 5), (0, -1), (1, 0), (3, 5)
+Dual: (-1, 2/5), (-1, 1), (0, -1/5), (1, 0), (3, 1)
+Boundary: (-1, 2), (-1, 3), (-1, 4), (-1, 5), (0, -1), (0, 5), (1, 0), (1, 5), (2, 5), (3, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4), (2, 3), (2, 4)
+
+ID: 13333
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5, 5
+Order: 5
+Volume: 26
+Degree: 26/5
+Num Vertices: 5
+Num Boundary: 10
+Num Interior: 9
+Vertices: (-1, 1), (-1, 5), (0, -1), (1, 0), (2, 5)
+Dual: (-1, 1/5), (-1, 1), (0, -1/5), (1, 0), (2, 1)
+Boundary: (-1, 1), (-1, 2), (-1, 3), (-1, 4), (-1, 5), (0, -1), (0, 5), (1, 0), (1, 5), (2, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4)
+
+ID: 13334
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 1, 5
+Order: 5
+Volume: 18
+Degree: 42/5
+Num Vertices: 5
+Num Boundary: 10
+Num Interior: 5
+Vertices: (-10, -1), (-5, -1), (0, 1), (1, 0), (1, 1)
+Dual: (-1, 0), (-1, 6), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (0, 1), (1, 0), (1, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13335
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 1, 5
+Order: 5
+Volume: 18
+Degree: 42/5
+Num Vertices: 5
+Num Boundary: 10
+Num Interior: 5
+Vertices: (-10, -1), (-6, -1), (0, 1), (1, 0), (2, 1)
+Dual: (-1, 1), (-1, 7), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, 0), (0, 1), (1, 0), (1, 1), (2, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13336
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 1, 5
+Order: 5
+Volume: 18
+Degree: 42/5
+Num Vertices: 5
+Num Boundary: 10
+Num Interior: 5
+Vertices: (-10, -1), (-7, -1), (0, 1), (1, 0), (3, 1)
+Dual: (-1, 2), (-1, 8), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-5, 0), (0, 1), (1, 0), (1, 1), (2, 1), (3, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13337
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5, 5
+Order: 5
+Volume: 37
+Degree: 19/5
+Num Vertices: 5
+Num Boundary: 9
+Num Interior: 15
+Vertices: (-2, 5), (-1, 0), (0, -1), (1, 0), (3, 5)
+Dual: (-1, 2/5), (-1, 1), (0, -1/5), (1, 1/5), (1, 1)
+Boundary: (-2, 5), (-1, 0), (-1, 5), (0, -1), (0, 5), (1, 0), (1, 5), (2, 5), (3, 5)
+Interior: (-1, 1), (-1, 2), (-1, 3), (-1, 4), (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4), (2, 3), (2, 4)
+
+ID: 13338
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5, 5
+Order: 5
+Volume: 33
+Degree: 39/5
+Num Vertices: 5
+Num Boundary: 9
+Num Interior: 13
+Vertices: (-1, 4), (-1, 5), (0, -1), (1, 0), (4, 5)
+Dual: (-1, 3/5), (-1, 1), (0, -1/5), (1, 0), (5, 1)
+Boundary: (-1, 4), (-1, 5), (0, -1), (0, 5), (1, 0), (1, 5), (2, 5), (3, 5), (4, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4), (2, 2), (2, 3), (2, 4), (3, 4)
+
+ID: 13339
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5, 5
+Order: 3
+Volume: 29
+Degree: 11/5
+Num Vertices: 5
+Num Boundary: 9
+Num Interior: 11
+Vertices: (-3, 5), (-2, 5), (0, 1), (2, -5), (3, -10)
+Dual: (-3, -1), (-2, -1), (-1, -1/5), (0, -1/5), (1, 2/5)
+Boundary: (-3, 5), (-2, 5), (-1, 0), (-1, 3), (0, 1), (1, -5), (1, -2), (2, -5), (3, -10)
+Interior: (-2, 3), (-2, 4), (-1, 1), (-1, 2), (0, -2), (0, -1), (0, 0), (1, -4), (1, -3), (2, -7), (2, -6)
+
+ID: 13340
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5, 5
+Order: 5
+Volume: 29
+Degree: 7
+Num Vertices: 5
+Num Boundary: 9
+Num Interior: 11
+Vertices: (-1, 3), (-1, 5), (0, -1), (1, 0), (3, 5)
+Dual: (-1, 2/5), (-1, 1), (0, -1/5), (1, 0), (4, 1)
+Boundary: (-1, 3), (-1, 4), (-1, 5), (0, -1), (0, 5), (1, 0), (1, 5), (2, 5), (3, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4), (2, 3), (2, 4)
+
+ID: 13341
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 5, 5, 5, 5
+Order: 3
+Volume: 25
+Degree: 7/5
+Num Vertices: 5
+Num Boundary: 9
+Num Interior: 9
+Vertices: (-2, 5), (-1, 0), (-1, 5), (1, -5), (1, 0)
+Dual: (-1, -2/5), (-1, 0), (0, -1/5), (1, 1/5), (1, 2/5)
+Boundary: (-2, 5), (-1, 0), (-1, 5), (1, -5), (1, -4), (1, -3), (1, -2), (1, -1), (1, 0)
+Interior: (-1, 1), (-1, 2), (-1, 3), (-1, 4), (0, -2), (0, -1), (0, 0), (0, 1), (0, 2)
+
+ID: 13342
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5, 5
+Order: 5
+Volume: 25
+Degree: 31/5
+Num Vertices: 5
+Num Boundary: 9
+Num Interior: 9
+Vertices: (-1, 2), (-1, 5), (0, -1), (1, 0), (2, 5)
+Dual: (-1, 1/5), (-1, 1), (0, -1/5), (1, 0), (3, 1)
+Boundary: (-1, 2), (-1, 3), (-1, 4), (-1, 5), (0, -1), (0, 5), (1, 0), (1, 5), (2, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4)
+
+ID: 13343
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5, 5
+Order: 3
+Volume: 21
+Degree: 3
+Num Vertices: 5
+Num Boundary: 9
+Num Interior: 7
+Vertices: (-3, 5), (-2, 5), (0, 1), (1, -5), (1, -2)
+Dual: (-3, -1), (-2, -1), (-1, 0), (0, -1/5), (1, 2/5)
+Boundary: (-3, 5), (-2, 5), (-1, 0), (-1, 3), (0, 1), (1, -5), (1, -4), (1, -3), (1, -2)
+Interior: (-2, 3), (-2, 4), (-1, 1), (-1, 2), (0, -2), (0, -1), (0, 0)
+
+ID: 13344
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 1, 5
+Order: 5
+Volume: 17
+Degree: 47/5
+Num Vertices: 5
+Num Boundary: 9
+Num Interior: 5
+Vertices: (-10, -1), (-6, -1), (0, 1), (1, 0), (1, 1)
+Dual: (-1, 0), (-1, 7), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, 0), (0, 1), (1, 0), (1, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13345
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 1, 5
+Order: 5
+Volume: 17
+Degree: 47/5
+Num Vertices: 5
+Num Boundary: 9
+Num Interior: 5
+Vertices: (-10, -1), (-7, -1), (0, 1), (1, 0), (2, 1)
+Dual: (-1, 1), (-1, 8), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-5, 0), (0, 1), (1, 0), (1, 1), (2, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13346
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 1, 5
+Order: 3
+Volume: 13
+Degree: 19/5
+Num Vertices: 5
+Num Boundary: 9
+Num Interior: 3
+Vertices: (-5, -1), (0, -1), (0, 1), (1, 0), (1, 1)
+Dual: (-1, 0), (-1, 1), (0, -1), (0, 1), (2/5, -1)
+Boundary: (-5, -1), (-4, -1), (-3, -1), (-2, -1), (-1, -1), (0, -1), (0, 1), (1, 0), (1, 1)
+Interior: (-2, 0), (-1, 0), (0, 0)
+
+ID: 13347
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 1, 5
+Order: 3
+Volume: 13
+Degree: 19/5
+Num Vertices: 5
+Num Boundary: 9
+Num Interior: 3
+Vertices: (-5, -1), (-1, -1), (0, 1), (1, 0), (2, 1)
+Dual: (-1, 1), (-1, 2), (0, -1), (0, 1), (2/5, -1)
+Boundary: (-5, -1), (-4, -1), (-3, -1), (-2, -1), (-1, -1), (0, 1), (1, 0), (1, 1), (2, 1)
+Interior: (-2, 0), (-1, 0), (0, 0)
+
+ID: 13348
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 1, 5
+Order: 3
+Volume: 13
+Degree: 19/5
+Num Vertices: 5
+Num Boundary: 9
+Num Interior: 3
+Vertices: (-5, -1), (-2, -1), (0, 1), (1, 0), (3, 1)
+Dual: (-1, 2), (-1, 3), (0, -1), (0, 1), (2/5, -1)
+Boundary: (-5, -1), (-4, -1), (-3, -1), (-2, -1), (0, 1), (1, 0), (1, 1), (2, 1), (3, 1)
+Interior: (-2, 0), (-1, 0), (0, 0)
+
+ID: 13349
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5, 5
+Order: 5
+Volume: 32
+Degree: 4
+Num Vertices: 5
+Num Boundary: 8
+Num Interior: 13
+Vertices: (-2, 5), (-1, 5), (0, 1), (1, -5), (2, -15)
+Dual: (-6, -1), (-4, -1), (-2, -1/5), (0, -1/5), (1, 1/5)
+Boundary: (-2, 5), (-1, 0), (-1, 5), (0, -5), (0, 1), (1, -10), (1, -5), (2, -15)
+Interior: (-1, 1), (-1, 2), (-1, 3), (-1, 4), (0, -4), (0, -3), (0, -2), (0, -1), (0, 0), (1, -9), (1, -8), (1, -7), (1, -6)
+
+ID: 13350
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5, 5
+Order: 5
+Volume: 28
+Degree: 8
+Num Vertices: 5
+Num Boundary: 8
+Num Interior: 11
+Vertices: (-1, 4), (-1, 5), (0, -1), (1, 0), (3, 5)
+Dual: (-1, 2/5), (-1, 1), (0, -1/5), (1, 0), (5, 1)
+Boundary: (-1, 4), (-1, 5), (0, -1), (0, 5), (1, 0), (1, 5), (2, 5), (3, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4), (2, 3), (2, 4)
+
+ID: 13351
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5, 5
+Order: 3
+Volume: 24
+Degree: 12/5
+Num Vertices: 5
+Num Boundary: 8
+Num Interior: 9
+Vertices: (-2, 5), (-1, 5), (0, -1), (2, -5), (3, -5)
+Dual: (-1, -2/5), (0, -1/5), (0, 1/5), (2, 1), (3, 1)
+Boundary: (-2, 5), (-1, 2), (-1, 5), (0, -1), (1, -3), (1, 0), (2, -5), (3, -5)
+Interior: (-1, 3), (-1, 4), (0, 0), (0, 1), (0, 2), (1, -2), (1, -1), (2, -4), (2, -3)
+
+ID: 13352
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5, 5
+Order: 5
+Volume: 24
+Degree: 36/5
+Num Vertices: 5
+Num Boundary: 8
+Num Interior: 9
+Vertices: (-1, 3), (-1, 5), (0, -1), (1, 0), (2, 5)
+Dual: (-1, 1/5), (-1, 1), (0, -1/5), (1, 0), (4, 1)
+Boundary: (-1, 3), (-1, 4), (-1, 5), (0, -1), (0, 5), (1, 0), (1, 5), (2, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4)
+
+ID: 13353
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5, 5
+Order: 3
+Volume: 20
+Degree: 4
+Num Vertices: 5
+Num Boundary: 8
+Num Interior: 7
+Vertices: (-3, 5), (-2, 5), (0, 1), (1, -5), (1, -3)
+Dual: (-4, -1), (-2, -1), (-1, 0), (0, -1/5), (1, 2/5)
+Boundary: (-3, 5), (-2, 5), (-1, 0), (-1, 3), (0, 1), (1, -5), (1, -4), (1, -3)
+Interior: (-2, 3), (-2, 4), (-1, 1), (-1, 2), (0, -2), (0, -1), (0, 0)
+
+ID: 13354
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5, 5
+Order: 3
+Volume: 20
+Degree: 4
+Num Vertices: 5
+Num Boundary: 8
+Num Interior: 7
+Vertices: (-3, 5), (-2, 5), (-1, 3), (1, -5), (1, -2)
+Dual: (-5, -2), (-2, -1), (-1, 0), (0, -1/5), (1, 2/5)
+Boundary: (-3, 5), (-2, 5), (-1, 0), (-1, 3), (1, -5), (1, -4), (1, -3), (1, -2)
+Interior: (-2, 3), (-2, 4), (-1, 1), (-1, 2), (0, -2), (0, -1), (0, 0)
+
+ID: 13355
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5, 5
+Order: 3
+Volume: 16
+Degree: 16/5
+Num Vertices: 5
+Num Boundary: 8
+Num Interior: 5
+Vertices: (-2, 5), (-1, 5), (0, -1), (1, -3), (1, 0)
+Dual: (-1, -2/5), (-1, 0), (0, -1/5), (2, 1), (3, 1)
+Boundary: (-2, 5), (-1, 2), (-1, 5), (0, -1), (1, -3), (1, -2), (1, -1), (1, 0)
+Interior: (-1, 3), (-1, 4), (0, 0), (0, 1), (0, 2)
+
+ID: 13356
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 1, 5
+Order: 5
+Volume: 16
+Degree: 52/5
+Num Vertices: 5
+Num Boundary: 8
+Num Interior: 5
+Vertices: (-10, -1), (-7, -1), (0, 1), (1, 0), (1, 1)
+Dual: (-1, 0), (-1, 8), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-5, 0), (0, 1), (1, 0), (1, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13357
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 1, 5
+Order: 5
+Volume: 16
+Degree: 52/5
+Num Vertices: 5
+Num Boundary: 8
+Num Interior: 5
+Vertices: (-10, -1), (-8, -1), (0, 1), (1, 0), (2, 1)
+Dual: (-1, 1), (-1, 9), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-5, 0), (0, 1), (1, 0), (1, 1), (2, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13358
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 1, 5
+Order: 3
+Volume: 12
+Degree: 24/5
+Num Vertices: 5
+Num Boundary: 8
+Num Interior: 3
+Vertices: (-5, -1), (-1, -1), (0, 1), (1, 0), (1, 1)
+Dual: (-1, 0), (-1, 2), (0, -1), (0, 1), (2/5, -1)
+Boundary: (-5, -1), (-4, -1), (-3, -1), (-2, -1), (-1, -1), (0, 1), (1, 0), (1, 1)
+Interior: (-2, 0), (-1, 0), (0, 0)
+
+ID: 13359
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 1, 5
+Order: 3
+Volume: 12
+Degree: 24/5
+Num Vertices: 5
+Num Boundary: 8
+Num Interior: 3
+Vertices: (-5, -1), (-2, -1), (0, 1), (1, 0), (2, 1)
+Dual: (-1, 1), (-1, 3), (0, -1), (0, 1), (2/5, -1)
+Boundary: (-5, -1), (-4, -1), (-3, -1), (-2, -1), (0, 1), (1, 0), (1, 1), (2, 1)
+Interior: (-2, 0), (-1, 0), (0, 0)
+
+ID: 13360
+Min Loc Index: 5
+Max Loc Index: 5
+Local Indices: 5, 5, 5, 5, 5
+Order: 3
+Volume: 35
+Degree: 1
+Num Vertices: 5
+Num Boundary: 7
+Num Interior: 15
+Vertices: (-2, 5), (-1, 0), (-1, 5), (1, 0), (3, -10)
+Dual: (-1, -2/5), (-1, -1/5), (0, -1/5), (1, 1/5), (1, 2/5)
+Boundary: (-2, 5), (-1, 0), (-1, 5), (1, -5), (1, 0), (2, -5), (3, -10)
+Interior: (-1, 1), (-1, 2), (-1, 3), (-1, 4), (0, -2), (0, -1), (0, 0), (0, 1), (0, 2), (1, -4), (1, -3), (1, -2), (1, -1), (2, -7), (2, -6)
+
+ID: 13361
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5, 5
+Order: 3
+Volume: 27
+Degree: 21/5
+Num Vertices: 5
+Num Boundary: 7
+Num Interior: 11
+Vertices: (-3, 5), (-2, 5), (-1, 3), (2, -5), (3, -10)
+Dual: (-8, -3), (-2, -1), (-1, -1/5), (0, -1/5), (1, 2/5)
+Boundary: (-3, 5), (-2, 5), (-1, 0), (-1, 3), (1, -5), (2, -5), (3, -10)
+Interior: (-2, 3), (-2, 4), (-1, 1), (-1, 2), (0, -2), (0, -1), (0, 0), (1, -4), (1, -3), (2, -7), (2, -6)
+
+ID: 13362
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5, 5
+Order: 3
+Volume: 23
+Degree: 17/5
+Num Vertices: 5
+Num Boundary: 7
+Num Interior: 9
+Vertices: (-3, 5), (-1, 5), (0, 1), (1, -5), (1, -4)
+Dual: (-5, -1), (-4, -1), (-1, 0), (0, -1/5), (1, 2/5)
+Boundary: (-3, 5), (-2, 5), (-1, 0), (-1, 5), (0, 1), (1, -5), (1, -4)
+Interior: (-2, 3), (-2, 4), (-1, 1), (-1, 2), (-1, 3), (-1, 4), (0, -2), (0, -1), (0, 0)
+
+ID: 13363
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5, 5
+Order: 5
+Volume: 23
+Degree: 41/5
+Num Vertices: 5
+Num Boundary: 7
+Num Interior: 9
+Vertices: (-1, 4), (-1, 5), (0, -1), (1, 0), (2, 5)
+Dual: (-1, 1/5), (-1, 1), (0, -1/5), (1, 0), (5, 1)
+Boundary: (-1, 4), (-1, 5), (0, -1), (0, 5), (1, 0), (1, 5), (2, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4)
+
+ID: 13364
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5, 5
+Order: 3
+Volume: 19
+Degree: 13/5
+Num Vertices: 5
+Num Boundary: 7
+Num Interior: 7
+Vertices: (-2, 5), (-1, 0), (-1, 5), (1, -5), (1, -3)
+Dual: (-4, -1), (-1, 0), (0, -1/5), (1, 1/5), (1, 2/5)
+Boundary: (-2, 5), (-1, 0), (-1, 5), (0, 1), (1, -5), (1, -4), (1, -3)
+Interior: (-1, 1), (-1, 2), (-1, 3), (-1, 4), (0, -2), (0, -1), (0, 0)
+
+ID: 13365
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5, 5
+Order: 3
+Volume: 19
+Degree: 13/5
+Num Vertices: 5
+Num Boundary: 7
+Num Interior: 7
+Vertices: (-2, 5), (-1, 5), (0, -1), (1, 0), (2, -5)
+Dual: (-1, -2/5), (-1, -1/5), (0, -1/5), (2, 1), (3, 1)
+Boundary: (-2, 5), (-1, 2), (-1, 5), (0, -1), (1, -3), (1, 0), (2, -5)
+Interior: (-1, 3), (-1, 4), (0, 0), (0, 1), (0, 2), (1, -2), (1, -1)
+
+ID: 13366
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5, 5
+Order: 3
+Volume: 19
+Degree: 5
+Num Vertices: 5
+Num Boundary: 7
+Num Interior: 7
+Vertices: (-3, 5), (-2, 5), (0, 1), (1, -5), (1, -4)
+Dual: (-5, -1), (-2, -1), (-1, 0), (0, -1/5), (1, 2/5)
+Boundary: (-3, 5), (-2, 5), (-1, 0), (-1, 3), (0, 1), (1, -5), (1, -4)
+Interior: (-2, 3), (-2, 4), (-1, 1), (-1, 2), (0, -2), (0, -1), (0, 0)
+
+ID: 13367
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5, 5
+Order: 3
+Volume: 15
+Degree: 21/5
+Num Vertices: 5
+Num Boundary: 7
+Num Interior: 5
+Vertices: (-2, 5), (-1, 2), (-1, 5), (1, -3), (1, 0)
+Dual: (-1, -2/5), (-1, 0), (0, -1/5), (3, 1), (5, 2)
+Boundary: (-2, 5), (-1, 2), (-1, 5), (1, -3), (1, -2), (1, -1), (1, 0)
+Interior: (-1, 3), (-1, 4), (0, 0), (0, 1), (0, 2)
+
+ID: 13368
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5, 5
+Order: 3
+Volume: 15
+Degree: 21/5
+Num Vertices: 5
+Num Boundary: 7
+Num Interior: 5
+Vertices: (-2, 5), (-1, 5), (0, -1), (1, -2), (1, 0)
+Dual: (-1, -2/5), (-1, 0), (0, -1/5), (1, 1), (3, 1)
+Boundary: (-2, 5), (-1, 2), (-1, 5), (0, -1), (1, -2), (1, -1), (1, 0)
+Interior: (-1, 3), (-1, 4), (0, 0), (0, 1), (0, 2)
+
+ID: 13369
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 1, 5
+Order: 5
+Volume: 15
+Degree: 57/5
+Num Vertices: 5
+Num Boundary: 7
+Num Interior: 5
+Vertices: (-10, -1), (-8, -1), (0, 1), (1, 0), (1, 1)
+Dual: (-1, 0), (-1, 9), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-5, 0), (0, 1), (1, 0), (1, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13370
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 1, 5
+Order: 3
+Volume: 11
+Degree: 29/5
+Num Vertices: 5
+Num Boundary: 7
+Num Interior: 3
+Vertices: (-5, -1), (-2, -1), (0, 1), (1, 0), (1, 1)
+Dual: (-1, 0), (-1, 3), (0, -1), (0, 1), (2/5, -1)
+Boundary: (-5, -1), (-4, -1), (-3, -1), (-2, -1), (0, 1), (1, 0), (1, 1)
+Interior: (-2, 0), (-1, 0), (0, 0)
+
+ID: 13371
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 1, 5
+Order: 3
+Volume: 11
+Degree: 29/5
+Num Vertices: 5
+Num Boundary: 7
+Num Interior: 3
+Vertices: (-5, -1), (-3, -1), (0, 1), (1, 0), (2, 1)
+Dual: (-1, 1), (-1, 4), (0, -1), (0, 1), (2/5, -1)
+Boundary: (-5, -1), (-4, -1), (-3, -1), (0, 1), (1, 0), (1, 1), (2, 1)
+Interior: (-2, 0), (-1, 0), (0, 0)
+
+ID: 13372
+Min Loc Index: 5
+Max Loc Index: 5
+Local Indices: 5, 5, 5, 5, 5
+Order: 3
+Volume: 30
+Degree: 6/5
+Num Vertices: 5
+Num Boundary: 6
+Num Interior: 13
+Vertices: (-2, 5), (-1, 5), (1, -5), (1, 0), (3, -10)
+Dual: (-1, -2/5), (-1, -1/5), (0, -1/5), (1, 2/5), (2, 3/5)
+Boundary: (-2, 5), (-1, 5), (1, -5), (1, 0), (2, -5), (3, -10)
+Interior: (-1, 2), (-1, 3), (-1, 4), (0, -1), (0, 0), (0, 1), (0, 2), (1, -4), (1, -3), (1, -2), (1, -1), (2, -7), (2, -6)
+
+ID: 13373
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5, 5
+Order: 3
+Volume: 22
+Degree: 22/5
+Num Vertices: 5
+Num Boundary: 6
+Num Interior: 9
+Vertices: (-2, 5), (-1, 5), (1, -3), (2, -5), (3, -5)
+Dual: (-1, -2/5), (0, -1/5), (0, 1/5), (2, 1), (8, 3)
+Boundary: (-2, 5), (-1, 5), (1, -3), (1, 0), (2, -5), (3, -5)
+Interior: (-1, 3), (-1, 4), (0, 0), (0, 1), (0, 2), (1, -2), (1, -1), (2, -4), (2, -3)
+
+ID: 13374
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5, 5
+Order: 3
+Volume: 22
+Degree: 22/5
+Num Vertices: 5
+Num Boundary: 6
+Num Interior: 9
+Vertices: (-2, 5), (-1, 2), (-1, 5), (2, -5), (3, -5)
+Dual: (-1, -2/5), (0, -1/5), (0, 1/5), (3, 1), (7, 3)
+Boundary: (-2, 5), (-1, 2), (-1, 5), (1, 0), (2, -5), (3, -5)
+Interior: (-1, 3), (-1, 4), (0, 0), (0, 1), (0, 2), (1, -2), (1, -1), (2, -4), (2, -3)
+
+ID: 13375
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5, 5
+Order: 3
+Volume: 14
+Degree: 26/5
+Num Vertices: 5
+Num Boundary: 6
+Num Interior: 5
+Vertices: (-2, 5), (-1, 5), (0, -1), (1, -1), (1, 0)
+Dual: (-1, -2/5), (-1, 0), (0, -1/5), (0, 1), (3, 1)
+Boundary: (-2, 5), (-1, 2), (-1, 5), (0, -1), (1, -1), (1, 0)
+Interior: (-1, 3), (-1, 4), (0, 0), (0, 1), (0, 2)
+
+ID: 13376
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 1, 5
+Order: 5
+Volume: 14
+Degree: 62/5
+Num Vertices: 5
+Num Boundary: 6
+Num Interior: 5
+Vertices: (-10, -1), (-9, -1), (0, 1), (1, 0), (1, 1)
+Dual: (-1, 0), (-1, 10), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-5, 0), (0, 1), (1, 0), (1, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13377
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 1, 5
+Order: 3
+Volume: 10
+Degree: 34/5
+Num Vertices: 5
+Num Boundary: 6
+Num Interior: 3
+Vertices: (-5, -1), (-3, -1), (0, 1), (1, 0), (1, 1)
+Dual: (-1, 0), (-1, 4), (0, -1), (0, 1), (2/5, -1)
+Boundary: (-5, -1), (-4, -1), (-3, -1), (0, 1), (1, 0), (1, 1)
+Interior: (-2, 0), (-1, 0), (0, 0)
+
+ID: 13378
+Min Loc Index: 5
+Max Loc Index: 5
+Local Indices: 5, 5, 5, 5, 5
+Order: 3
+Volume: 25
+Degree: 7/5
+Num Vertices: 5
+Num Boundary: 5
+Num Interior: 11
+Vertices: (-2, 5), (-1, 0), (-1, 5), (1, 0), (2, -5)
+Dual: (-1, -2/5), (-1, -1/5), (0, -1/5), (1, 1/5), (1, 3/5)
+Boundary: (-2, 5), (-1, 0), (-1, 5), (1, 0), (2, -5)
+Interior: (-1, 1), (-1, 2), (-1, 3), (-1, 4), (0, -1), (0, 0), (0, 1), (0, 2), (1, -3), (1, -2), (1, -1)
+
+ID: 13379
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5, 5
+Order: 3
+Volume: 17
+Degree: 23/5
+Num Vertices: 5
+Num Boundary: 5
+Num Interior: 7
+Vertices: (-2, 5), (-1, 0), (-1, 5), (1, -5), (1, -4)
+Dual: (-9, -2), (-1, 0), (0, -1/5), (1, 1/5), (1, 2/5)
+Boundary: (-2, 5), (-1, 0), (-1, 5), (1, -5), (1, -4)
+Interior: (-1, 1), (-1, 2), (-1, 3), (-1, 4), (0, -2), (0, -1), (0, 0)
+
+ID: 13380
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5, 5
+Order: 3
+Volume: 17
+Degree: 23/5
+Num Vertices: 5
+Num Boundary: 5
+Num Interior: 7
+Vertices: (-2, 5), (-1, 2), (-1, 5), (1, 0), (2, -5)
+Dual: (-1, -2/5), (-1, -1/5), (0, -1/5), (3, 1), (7, 3)
+Boundary: (-2, 5), (-1, 2), (-1, 5), (1, 0), (2, -5)
+Interior: (-1, 3), (-1, 4), (0, 0), (0, 1), (0, 2), (1, -2), (1, -1)
+
+ID: 13381
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5, 5
+Order: 3
+Volume: 17
+Degree: 23/5
+Num Vertices: 5
+Num Boundary: 5
+Num Interior: 7
+Vertices: (-2, 5), (-1, 0), (-1, 5), (0, 1), (1, -5)
+Dual: (-6, -1), (-4, -1), (0, -1/5), (1, 1/5), (1, 2/5)
+Boundary: (-2, 5), (-1, 0), (-1, 5), (0, 1), (1, -5)
+Interior: (-1, 1), (-1, 2), (-1, 3), (-1, 4), (0, -2), (0, -1), (0, 0)
+
+ID: 13382
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5, 5
+Order: 2
+Volume: 13
+Degree: 19/5
+Num Vertices: 5
+Num Boundary: 5
+Num Interior: 5
+Vertices: (-2, 5), (-1, 5), (0, 1), (1, -5), (1, -4)
+Dual: (-5, -1), (-4, -1), (-1, 0), (0, -1/5), (2, 3/5)
+Boundary: (-2, 5), (-1, 5), (0, 1), (1, -5), (1, -4)
+Interior: (-1, 2), (-1, 3), (-1, 4), (0, -1), (0, 0)
+
+ID: 13383
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 1, 5
+Order: 3
+Volume: 9
+Degree: 39/5
+Num Vertices: 5
+Num Boundary: 5
+Num Interior: 3
+Vertices: (-5, -1), (-4, -1), (0, 1), (1, 0), (1, 1)
+Dual: (-1, 0), (-1, 5), (0, -1), (0, 1), (2/5, -1)
+Boundary: (-5, -1), (-4, -1), (0, 1), (1, 0), (1, 1)
+Interior: (-2, 0), (-1, 0), (0, 0)
+
+ID: 13384
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 5
+Volume: 40
+Degree: 4/5
+Num Vertices: 4
+Num Boundary: 24
+Num Interior: 9
+Vertices: (-10, -1), (0, 1), (1, 1), (9, -1)
+Dual: (-1/5, -4/5), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (-4, -1), (-3, -1), (-2, -1), (-1, -1), (0, -1), (0, 1), (1, -1), (1, 1), (2, -1), (3, -1), (4, -1), (5, -1), (5, 0), (6, -1), (7, -1), (8, -1), (9, -1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0), (1, 0), (2, 0), (3, 0), (4, 0)
+
+ID: 13385
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 5
+Volume: 40
+Degree: 4/5
+Num Vertices: 4
+Num Boundary: 24
+Num Interior: 9
+Vertices: (-10, -1), (0, 1), (2, 1), (8, -1)
+Dual: (-1/5, -3/5), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (-4, -1), (-3, -1), (-2, -1), (-1, -1), (0, -1), (0, 1), (1, -1), (1, 1), (2, -1), (2, 1), (3, -1), (4, -1), (5, -1), (5, 0), (6, -1), (7, -1), (8, -1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0), (1, 0), (2, 0), (3, 0), (4, 0)
+
+ID: 13386
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 5
+Volume: 40
+Degree: 4/5
+Num Vertices: 4
+Num Boundary: 24
+Num Interior: 9
+Vertices: (-10, -1), (0, 1), (3, 1), (7, -1)
+Dual: (-1/5, -2/5), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (-4, -1), (-3, -1), (-2, -1), (-1, -1), (0, -1), (0, 1), (1, -1), (1, 1), (2, -1), (2, 1), (3, -1), (3, 1), (4, -1), (5, -1), (5, 0), (6, -1), (7, -1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0), (1, 0), (2, 0), (3, 0), (4, 0)
+
+ID: 13387
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 5
+Volume: 40
+Degree: 4/5
+Num Vertices: 4
+Num Boundary: 24
+Num Interior: 9
+Vertices: (-10, -1), (0, 1), (4, 1), (6, -1)
+Dual: (-1/5, -1/5), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (-4, -1), (-3, -1), (-2, -1), (-1, -1), (0, -1), (0, 1), (1, -1), (1, 1), (2, -1), (2, 1), (3, -1), (3, 1), (4, -1), (4, 1), (5, -1), (5, 0), (6, -1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0), (1, 0), (2, 0), (3, 0), (4, 0)
+
+ID: 13388
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 5
+Volume: 40
+Degree: 4/5
+Num Vertices: 4
+Num Boundary: 24
+Num Interior: 9
+Vertices: (-10, -1), (0, 1), (5, -1), (5, 1)
+Dual: (-1/5, 0), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (-4, -1), (-3, -1), (-2, -1), (-1, -1), (0, -1), (0, 1), (1, -1), (1, 1), (2, -1), (2, 1), (3, -1), (3, 1), (4, -1), (4, 1), (5, -1), (5, 0), (5, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0), (1, 0), (2, 0), (3, 0), (4, 0)
+
+ID: 13389
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 5
+Volume: 40
+Degree: 4/5
+Num Vertices: 4
+Num Boundary: 24
+Num Interior: 9
+Vertices: (-10, -1), (0, 1), (4, -1), (6, 1)
+Dual: (-1/5, 1/5), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (-4, -1), (-3, -1), (-2, -1), (-1, -1), (0, -1), (0, 1), (1, -1), (1, 1), (2, -1), (2, 1), (3, -1), (3, 1), (4, -1), (4, 1), (5, 0), (5, 1), (6, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0), (1, 0), (2, 0), (3, 0), (4, 0)
+
+ID: 13390
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 5
+Volume: 40
+Degree: 4/5
+Num Vertices: 4
+Num Boundary: 24
+Num Interior: 9
+Vertices: (-10, -1), (0, 1), (3, -1), (7, 1)
+Dual: (-1/5, 2/5), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (-4, -1), (-3, -1), (-2, -1), (-1, -1), (0, -1), (0, 1), (1, -1), (1, 1), (2, -1), (2, 1), (3, -1), (3, 1), (4, 1), (5, 0), (5, 1), (6, 1), (7, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0), (1, 0), (2, 0), (3, 0), (4, 0)
+
+ID: 13391
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 5
+Volume: 40
+Degree: 4/5
+Num Vertices: 4
+Num Boundary: 24
+Num Interior: 9
+Vertices: (-10, -1), (0, 1), (2, -1), (8, 1)
+Dual: (-1/5, 3/5), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (-4, -1), (-3, -1), (-2, -1), (-1, -1), (0, -1), (0, 1), (1, -1), (1, 1), (2, -1), (2, 1), (3, 1), (4, 1), (5, 0), (5, 1), (6, 1), (7, 1), (8, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0), (1, 0), (2, 0), (3, 0), (4, 0)
+
+ID: 13392
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 5
+Volume: 40
+Degree: 4/5
+Num Vertices: 4
+Num Boundary: 24
+Num Interior: 9
+Vertices: (-10, -1), (0, 1), (1, -1), (9, 1)
+Dual: (-1/5, 4/5), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (-4, -1), (-3, -1), (-2, -1), (-1, -1), (0, -1), (0, 1), (1, -1), (1, 1), (2, 1), (3, 1), (4, 1), (5, 0), (5, 1), (6, 1), (7, 1), (8, 1), (9, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0), (1, 0), (2, 0), (3, 0), (4, 0)
+
+ID: 13393
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 5
+Volume: 40
+Degree: 4/5
+Num Vertices: 4
+Num Boundary: 24
+Num Interior: 9
+Vertices: (-10, -1), (0, -1), (0, 1), (10, 1)
+Dual: (-1/5, 1), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (-4, -1), (-3, -1), (-2, -1), (-1, -1), (0, -1), (0, 1), (1, 1), (2, 1), (3, 1), (4, 1), (5, 0), (5, 1), (6, 1), (7, 1), (8, 1), (9, 1), (10, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0), (1, 0), (2, 0), (3, 0), (4, 0)
+
+ID: 13394
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 5
+Volume: 48
+Degree: 12/5
+Num Vertices: 4
+Num Boundary: 20
+Num Interior: 15
+Vertices: (-1, -1), (-1, 5), (0, -1), (6, 5)
+Dual: (-1, 1), (0, -1/5), (0, 1), (1, 0)
+Boundary: (-1, -1), (-1, 0), (-1, 1), (-1, 2), (-1, 3), (-1, 4), (-1, 5), (0, -1), (0, 5), (1, 0), (1, 5), (2, 1), (2, 5), (3, 2), (3, 5), (4, 3), (4, 5), (5, 4), (5, 5), (6, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4), (2, 2), (2, 3), (2, 4), (3, 3), (3, 4), (4, 4)
+
+ID: 13395
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 5
+Volume: 47
+Degree: 17/5
+Num Vertices: 4
+Num Boundary: 19
+Num Interior: 15
+Vertices: (-1, 0), (-1, 5), (0, -1), (6, 5)
+Dual: (-1, 1), (0, -1/5), (1, 0), (1, 1)
+Boundary: (-1, 0), (-1, 1), (-1, 2), (-1, 3), (-1, 4), (-1, 5), (0, -1), (0, 5), (1, 0), (1, 5), (2, 1), (2, 5), (3, 2), (3, 5), (4, 3), (4, 5), (5, 4), (5, 5), (6, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4), (2, 2), (2, 3), (2, 4), (3, 3), (3, 4), (4, 4)
+
+ID: 13396
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 5
+Volume: 62
+Degree: 14/5
+Num Vertices: 4
+Num Boundary: 18
+Num Interior: 23
+Vertices: (-1, -1), (-1, 5), (1, 0), (9, 5)
+Dual: (-1, 8/5), (-1, 2), (0, -1/5), (1, 0)
+Boundary: (-1, -1), (-1, 0), (-1, 1), (-1, 2), (-1, 3), (-1, 4), (-1, 5), (0, 5), (1, 0), (1, 5), (2, 5), (3, 5), (4, 5), (5, 5), (6, 5), (7, 5), (8, 5), (9, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4), (2, 1), (2, 2), (2, 3), (2, 4), (3, 2), (3, 3), (3, 4), (4, 2), (4, 3), (4, 4), (5, 3), (5, 4), (6, 4), (7, 4)
+
+ID: 13397
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 5
+Volume: 46
+Degree: 22/5
+Num Vertices: 4
+Num Boundary: 18
+Num Interior: 15
+Vertices: (-1, 1), (-1, 5), (0, -1), (6, 5)
+Dual: (-1, 1), (0, -1/5), (1, 0), (2, 1)
+Boundary: (-1, 1), (-1, 2), (-1, 3), (-1, 4), (-1, 5), (0, -1), (0, 5), (1, 0), (1, 5), (2, 1), (2, 5), (3, 2), (3, 5), (4, 3), (4, 5), (5, 4), (5, 5), (6, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4), (2, 2), (2, 3), (2, 4), (3, 3), (3, 4), (4, 4)
+
+ID: 13398
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 5
+Volume: 30
+Degree: 6/5
+Num Vertices: 4
+Num Boundary: 18
+Num Interior: 7
+Vertices: (-10, -1), (0, 1), (1, 1), (4, -1)
+Dual: (-2/5, -3/5), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (-4, -1), (-3, -1), (-2, -1), (-1, -1), (0, -1), (0, 1), (1, -1), (1, 1), (2, -1), (3, -1), (4, -1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0), (1, 0), (2, 0)
+
+ID: 13399
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 5
+Volume: 30
+Degree: 6/5
+Num Vertices: 4
+Num Boundary: 18
+Num Interior: 7
+Vertices: (-10, -1), (0, 1), (2, 1), (3, -1)
+Dual: (-2/5, -1/5), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (-4, -1), (-3, -1), (-2, -1), (-1, -1), (0, -1), (0, 1), (1, -1), (1, 1), (2, -1), (2, 1), (3, -1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0), (1, 0), (2, 0)
+
+ID: 13400
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 5
+Volume: 30
+Degree: 6/5
+Num Vertices: 4
+Num Boundary: 18
+Num Interior: 7
+Vertices: (-10, -1), (0, 1), (2, -1), (3, 1)
+Dual: (-2/5, 1/5), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (-4, -1), (-3, -1), (-2, -1), (-1, -1), (0, -1), (0, 1), (1, -1), (1, 1), (2, -1), (2, 1), (3, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0), (1, 0), (2, 0)
+
+ID: 13401
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 5
+Volume: 30
+Degree: 6/5
+Num Vertices: 4
+Num Boundary: 18
+Num Interior: 7
+Vertices: (-10, -1), (0, 1), (1, -1), (4, 1)
+Dual: (-2/5, 3/5), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (-4, -1), (-3, -1), (-2, -1), (-1, -1), (0, -1), (0, 1), (1, -1), (1, 1), (2, 1), (3, 1), (4, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0), (1, 0), (2, 0)
+
+ID: 13402
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 5
+Volume: 30
+Degree: 6/5
+Num Vertices: 4
+Num Boundary: 18
+Num Interior: 7
+Vertices: (-10, -1), (0, -1), (0, 1), (5, 1)
+Dual: (-2/5, 1), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (-4, -1), (-3, -1), (-2, -1), (-1, -1), (0, -1), (0, 1), (1, 1), (2, 1), (3, 1), (4, 1), (5, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0), (1, 0), (2, 0)
+
+ID: 13403
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 5
+Volume: 30
+Degree: 6/5
+Num Vertices: 4
+Num Boundary: 18
+Num Interior: 7
+Vertices: (-10, -1), (-1, -1), (0, 1), (6, 1)
+Dual: (-2/5, 7/5), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (-4, -1), (-3, -1), (-2, -1), (-1, -1), (0, 1), (1, 1), (2, 1), (3, 1), (4, 1), (5, 1), (6, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0), (1, 0), (2, 0)
+
+ID: 13404
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 5
+Volume: 30
+Degree: 6/5
+Num Vertices: 4
+Num Boundary: 18
+Num Interior: 7
+Vertices: (-10, -1), (-2, -1), (0, 1), (7, 1)
+Dual: (-2/5, 9/5), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (-4, -1), (-3, -1), (-2, -1), (0, 1), (1, 1), (2, 1), (3, 1), (4, 1), (5, 1), (6, 1), (7, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0), (1, 0), (2, 0)
+
+ID: 13405
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 5
+Volume: 57
+Degree: 3
+Num Vertices: 4
+Num Boundary: 17
+Num Interior: 21
+Vertices: (-1, -1), (-1, 5), (1, 0), (8, 5)
+Dual: (-1, 7/5), (-1, 2), (0, -1/5), (1, 0)
+Boundary: (-1, -1), (-1, 0), (-1, 1), (-1, 2), (-1, 3), (-1, 4), (-1, 5), (0, 5), (1, 0), (1, 5), (2, 5), (3, 5), (4, 5), (5, 5), (6, 5), (7, 5), (8, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4), (2, 1), (2, 2), (2, 3), (2, 4), (3, 2), (3, 3), (3, 4), (4, 3), (4, 4), (5, 3), (5, 4), (6, 4)
+
+ID: 13406
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 5
+Volume: 45
+Degree: 27/5
+Num Vertices: 4
+Num Boundary: 17
+Num Interior: 15
+Vertices: (-1, 2), (-1, 5), (0, -1), (6, 5)
+Dual: (-1, 1), (0, -1/5), (1, 0), (3, 1)
+Boundary: (-1, 2), (-1, 3), (-1, 4), (-1, 5), (0, -1), (0, 5), (1, 0), (1, 5), (2, 1), (2, 5), (3, 2), (3, 5), (4, 3), (4, 5), (5, 4), (5, 5), (6, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4), (2, 2), (2, 3), (2, 4), (3, 3), (3, 4), (4, 4)
+
+ID: 13407
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 5
+Volume: 52
+Degree: 16/5
+Num Vertices: 4
+Num Boundary: 16
+Num Interior: 19
+Vertices: (-1, -1), (-1, 5), (1, 0), (7, 5)
+Dual: (-1, 6/5), (-1, 2), (0, -1/5), (1, 0)
+Boundary: (-1, -1), (-1, 0), (-1, 1), (-1, 2), (-1, 3), (-1, 4), (-1, 5), (0, 5), (1, 0), (1, 5), (2, 5), (3, 5), (4, 5), (5, 5), (6, 5), (7, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4), (2, 1), (2, 2), (2, 3), (2, 4), (3, 2), (3, 3), (3, 4), (4, 3), (4, 4), (5, 4)
+
+ID: 13408
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 5
+Volume: 44
+Degree: 32/5
+Num Vertices: 4
+Num Boundary: 16
+Num Interior: 15
+Vertices: (-1, 3), (-1, 5), (0, -1), (6, 5)
+Dual: (-1, 1), (0, -1/5), (1, 0), (4, 1)
+Boundary: (-1, 3), (-1, 4), (-1, 5), (0, -1), (0, 5), (1, 0), (1, 5), (2, 1), (2, 5), (3, 2), (3, 5), (4, 3), (4, 5), (5, 4), (5, 5), (6, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4), (2, 2), (2, 3), (2, 4), (3, 3), (3, 4), (4, 4)
+
+ID: 13409
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 5
+Volume: 24
+Degree: 12/5
+Num Vertices: 4
+Num Boundary: 16
+Num Interior: 5
+Vertices: (-10, -1), (0, 1), (1, -1), (1, 1)
+Dual: (-1, 0), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (-4, -1), (-3, -1), (-2, -1), (-1, -1), (0, -1), (0, 1), (1, -1), (1, 0), (1, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13410
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 5
+Volume: 24
+Degree: 12/5
+Num Vertices: 4
+Num Boundary: 16
+Num Interior: 5
+Vertices: (-10, -1), (0, -1), (0, 1), (2, 1)
+Dual: (-1, 1), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (-4, -1), (-3, -1), (-2, -1), (-1, -1), (0, -1), (0, 1), (1, 0), (1, 1), (2, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13411
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 5
+Volume: 24
+Degree: 12/5
+Num Vertices: 4
+Num Boundary: 16
+Num Interior: 5
+Vertices: (-10, -1), (-1, -1), (0, 1), (3, 1)
+Dual: (-1, 2), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (-4, -1), (-3, -1), (-2, -1), (-1, -1), (0, 1), (1, 0), (1, 1), (2, 1), (3, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13412
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 5
+Volume: 24
+Degree: 12/5
+Num Vertices: 4
+Num Boundary: 16
+Num Interior: 5
+Vertices: (-10, -1), (-2, -1), (0, 1), (4, 1)
+Dual: (-1, 3), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (-4, -1), (-3, -1), (-2, -1), (0, 1), (1, 0), (1, 1), (2, 1), (3, 1), (4, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13413
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 5
+Volume: 24
+Degree: 12/5
+Num Vertices: 4
+Num Boundary: 16
+Num Interior: 5
+Vertices: (-10, -1), (-3, -1), (0, 1), (5, 1)
+Dual: (-1, 4), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (-4, -1), (-3, -1), (0, 1), (1, 0), (1, 1), (2, 1), (3, 1), (4, 1), (5, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13414
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 5
+Volume: 24
+Degree: 12/5
+Num Vertices: 4
+Num Boundary: 16
+Num Interior: 5
+Vertices: (-10, -1), (-4, -1), (0, 1), (6, 1)
+Dual: (-1, 5), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (-4, -1), (0, 1), (1, 0), (1, 1), (2, 1), (3, 1), (4, 1), (5, 1), (6, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13415
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 5
+Volume: 43
+Degree: 37/5
+Num Vertices: 4
+Num Boundary: 15
+Num Interior: 15
+Vertices: (-1, 4), (-1, 5), (0, -1), (6, 5)
+Dual: (-1, 1), (0, -1/5), (1, 0), (5, 1)
+Boundary: (-1, 4), (-1, 5), (0, -1), (0, 5), (1, 0), (1, 5), (2, 1), (2, 5), (3, 2), (3, 5), (4, 3), (4, 5), (5, 4), (5, 5), (6, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4), (2, 2), (2, 3), (2, 4), (3, 3), (3, 4), (4, 4)
+
+ID: 13416
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 5
+Volume: 39
+Degree: 9/5
+Num Vertices: 4
+Num Boundary: 15
+Num Interior: 13
+Vertices: (-1, -2), (-1, 5), (1, 0), (4, 5)
+Dual: (-1, 3/5), (-1, 1), (0, -1/5), (1, 0)
+Boundary: (-1, -2), (-1, -1), (-1, 0), (-1, 1), (-1, 2), (-1, 3), (-1, 4), (-1, 5), (0, -1), (0, 5), (1, 0), (1, 5), (2, 5), (3, 5), (4, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4), (2, 2), (2, 3), (2, 4), (3, 4)
+
+ID: 13417
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 5, 5, 5
+Order: 5
+Volume: 35
+Degree: 1
+Num Vertices: 4
+Num Boundary: 15
+Num Interior: 11
+Vertices: (-1, -5), (-1, 5), (1, 0), (2, 5)
+Dual: (-1, 1/5), (-1, 2/5), (0, -1/5), (1, 0)
+Boundary: (-1, -5), (-1, -4), (-1, -3), (-1, -2), (-1, -1), (-1, 0), (-1, 1), (-1, 2), (-1, 3), (-1, 4), (-1, 5), (0, 5), (1, 0), (1, 5), (2, 5)
+Interior: (0, -2), (0, -1), (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4)
+
+ID: 13418
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 5
+Volume: 31
+Degree: 13/5
+Num Vertices: 4
+Num Boundary: 15
+Num Interior: 9
+Vertices: (-1, -2), (-1, 5), (0, -1), (3, 5)
+Dual: (-2, 1), (-1, 1), (0, -1/5), (1, 0)
+Boundary: (-1, -2), (-1, -1), (-1, 0), (-1, 1), (-1, 2), (-1, 3), (-1, 4), (-1, 5), (0, -1), (0, 5), (1, 1), (1, 5), (2, 3), (2, 5), (3, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 2), (1, 3), (1, 4), (2, 4)
+
+ID: 13419
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 5
+Volume: 23
+Degree: 17/5
+Num Vertices: 4
+Num Boundary: 15
+Num Interior: 5
+Vertices: (-1, -1), (-1, 0), (0, 1), (11, 1)
+Dual: (-1/5, 6/5), (0, -1), (1, -1), (1, 0)
+Boundary: (-1, -1), (-1, 0), (0, 1), (1, 1), (2, 1), (3, 1), (4, 1), (5, 0), (5, 1), (6, 1), (7, 1), (8, 1), (9, 1), (10, 1), (11, 1)
+Interior: (0, 0), (1, 0), (2, 0), (3, 0), (4, 0)
+
+ID: 13420
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 5
+Volume: 34
+Degree: 2
+Num Vertices: 4
+Num Boundary: 14
+Num Interior: 11
+Vertices: (-1, -2), (-1, 5), (1, 0), (3, 5)
+Dual: (-1, 2/5), (-1, 1), (0, -1/5), (1, 0)
+Boundary: (-1, -2), (-1, -1), (-1, 0), (-1, 1), (-1, 2), (-1, 3), (-1, 4), (-1, 5), (0, -1), (0, 5), (1, 0), (1, 5), (2, 5), (3, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4), (2, 3), (2, 4)
+
+ID: 13421
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 5
+Volume: 30
+Degree: 18/5
+Num Vertices: 4
+Num Boundary: 14
+Num Interior: 9
+Vertices: (-1, -2), (-1, 5), (1, 1), (3, 5)
+Dual: (-3, 2), (-2, 1), (0, -1/5), (1, 0)
+Boundary: (-1, -2), (-1, -1), (-1, 0), (-1, 1), (-1, 2), (-1, 3), (-1, 4), (-1, 5), (0, 5), (1, 1), (1, 5), (2, 3), (2, 5), (3, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 2), (1, 3), (1, 4), (2, 4)
+
+ID: 13422
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 5
+Volume: 30
+Degree: 18/5
+Num Vertices: 4
+Num Boundary: 14
+Num Interior: 9
+Vertices: (-1, -1), (-1, 5), (0, -1), (3, 5)
+Dual: (-2, 1), (0, -1/5), (0, 1), (1, 0)
+Boundary: (-1, -1), (-1, 0), (-1, 1), (-1, 2), (-1, 3), (-1, 4), (-1, 5), (0, -1), (0, 5), (1, 1), (1, 5), (2, 3), (2, 5), (3, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 2), (1, 3), (1, 4), (2, 4)
+
+ID: 13423
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 5
+Volume: 26
+Degree: 14/5
+Num Vertices: 4
+Num Boundary: 14
+Num Interior: 7
+Vertices: (-1, -2), (-1, 0), (0, 1), (8, 1)
+Dual: (-1/5, 3/5), (0, -1), (1, -1), (1, 0)
+Boundary: (-1, -2), (-1, -1), (-1, 0), (0, 1), (1, 1), (2, -1), (2, 1), (3, 1), (4, 1), (5, 0), (5, 1), (6, 1), (7, 1), (8, 1)
+Interior: (0, -1), (0, 0), (1, -1), (1, 0), (2, 0), (3, 0), (4, 0)
+
+ID: 13424
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 5
+Volume: 22
+Degree: 22/5
+Num Vertices: 4
+Num Boundary: 14
+Num Interior: 5
+Vertices: (-10, -1), (0, -1), (0, 1), (1, 1)
+Dual: (-2, 1), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (-4, -1), (-3, -1), (-2, -1), (-1, -1), (0, -1), (0, 1), (1, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13425
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 5
+Volume: 22
+Degree: 22/5
+Num Vertices: 4
+Num Boundary: 14
+Num Interior: 5
+Vertices: (-10, -1), (-1, -1), (0, 1), (2, 1)
+Dual: (-2, 3), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (-4, -1), (-3, -1), (-2, -1), (-1, -1), (0, 1), (1, 1), (2, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13426
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 5
+Volume: 22
+Degree: 22/5
+Num Vertices: 4
+Num Boundary: 14
+Num Interior: 5
+Vertices: (-10, -1), (-2, -1), (0, 1), (3, 1)
+Dual: (-2, 5), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (-4, -1), (-3, -1), (-2, -1), (0, 1), (1, 1), (2, 1), (3, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13427
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 5
+Volume: 22
+Degree: 22/5
+Num Vertices: 4
+Num Boundary: 14
+Num Interior: 5
+Vertices: (-10, -1), (-3, -1), (0, 1), (4, 1)
+Dual: (-2, 7), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (-4, -1), (-3, -1), (0, 1), (1, 1), (2, 1), (3, 1), (4, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13428
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 5
+Volume: 22
+Degree: 22/5
+Num Vertices: 4
+Num Boundary: 14
+Num Interior: 5
+Vertices: (-10, -1), (-4, -1), (0, 1), (5, 1)
+Dual: (-2, 9), (0, -1), (0, 1), (1/5, -1)
+Boundary: (-10, -1), (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-5, -1), (-5, 0), (-4, -1), (0, 1), (1, 1), (2, 1), (3, 1), (4, 1), (5, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13429
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 5
+Volume: 22
+Degree: 22/5
+Num Vertices: 4
+Num Boundary: 14
+Num Interior: 5
+Vertices: (-1, 0), (0, -1), (0, 1), (10, 1)
+Dual: (-1/5, 1), (0, -1), (1, -1), (1, 1)
+Boundary: (-1, 0), (0, -1), (0, 1), (1, 1), (2, 1), (3, 1), (4, 1), (5, 0), (5, 1), (6, 1), (7, 1), (8, 1), (9, 1), (10, 1)
+Interior: (0, 0), (1, 0), (2, 0), (3, 0), (4, 0)
+
+ID: 13430
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 5
+Volume: 37
+Degree: 19/5
+Num Vertices: 4
+Num Boundary: 13
+Num Interior: 13
+Vertices: (-1, -1), (-1, 5), (1, 0), (4, 5)
+Dual: (-1, 3/5), (-1, 2), (0, -1/5), (1, 0)
+Boundary: (-1, -1), (-1, 0), (-1, 1), (-1, 2), (-1, 3), (-1, 4), (-1, 5), (0, 5), (1, 0), (1, 5), (2, 5), (3, 5), (4, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4), (2, 2), (2, 3), (2, 4), (3, 4)
+
+ID: 13431
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 5
+Volume: 29
+Degree: 11/5
+Num Vertices: 4
+Num Boundary: 13
+Num Interior: 9
+Vertices: (-1, -2), (-1, 5), (1, 0), (2, 5)
+Dual: (-1, 1/5), (-1, 1), (0, -1/5), (1, 0)
+Boundary: (-1, -2), (-1, -1), (-1, 0), (-1, 1), (-1, 2), (-1, 3), (-1, 4), (-1, 5), (0, -1), (0, 5), (1, 0), (1, 5), (2, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4)
+
+ID: 13432
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 5
+Volume: 29
+Degree: 23/5
+Num Vertices: 4
+Num Boundary: 13
+Num Interior: 9
+Vertices: (-1, -2), (-1, 5), (2, 3), (3, 5)
+Dual: (-5, 3), (-2, 1), (0, -1/5), (1, 0)
+Boundary: (-1, -2), (-1, -1), (-1, 0), (-1, 1), (-1, 2), (-1, 3), (-1, 4), (-1, 5), (0, 5), (1, 5), (2, 3), (2, 5), (3, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 2), (1, 3), (1, 4), (2, 4)
+
+ID: 13433
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 5
+Volume: 29
+Degree: 23/5
+Num Vertices: 4
+Num Boundary: 13
+Num Interior: 9
+Vertices: (-1, 0), (-1, 5), (0, -1), (3, 5)
+Dual: (-2, 1), (0, -1/5), (1, 0), (1, 1)
+Boundary: (-1, 0), (-1, 1), (-1, 2), (-1, 3), (-1, 4), (-1, 5), (0, -1), (0, 5), (1, 1), (1, 5), (2, 3), (2, 5), (3, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 2), (1, 3), (1, 4), (2, 4)
+
+ID: 13434
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 5
+Volume: 25
+Degree: 19/5
+Num Vertices: 4
+Num Boundary: 13
+Num Interior: 7
+Vertices: (-1, -3), (-1, 5), (1, 2), (2, 5)
+Dual: (-5, 2), (-3, 1), (0, -1/5), (1, 0)
+Boundary: (-1, -3), (-1, -2), (-1, -1), (-1, 0), (-1, 1), (-1, 2), (-1, 3), (-1, 4), (-1, 5), (0, 5), (1, 2), (1, 5), (2, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 3), (1, 4)
+
+ID: 13435
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 5
+Volume: 25
+Degree: 19/5
+Num Vertices: 4
+Num Boundary: 13
+Num Interior: 7
+Vertices: (-1, 0), (0, 1), (1, -2), (7, 1)
+Dual: (-1/5, 2/5), (0, -1), (1, -1), (1, 1)
+Boundary: (-1, 0), (0, -1), (0, 1), (1, -2), (1, 1), (2, 1), (3, -1), (3, 1), (4, 1), (5, 0), (5, 1), (6, 1), (7, 1)
+Interior: (0, 0), (1, -1), (1, 0), (2, -1), (2, 0), (3, 0), (4, 0)
+
+ID: 13436
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 5
+Volume: 21
+Degree: 27/5
+Num Vertices: 4
+Num Boundary: 13
+Num Interior: 5
+Vertices: (-1, 0), (0, 1), (1, -1), (9, 1)
+Dual: (-1/5, 4/5), (0, -1), (1, -1), (1, 2)
+Boundary: (-1, 0), (0, 1), (1, -1), (1, 1), (2, 1), (3, 1), (4, 1), (5, 0), (5, 1), (6, 1), (7, 1), (8, 1), (9, 1)
+Interior: (0, 0), (1, 0), (2, 0), (3, 0), (4, 0)
+
+ID: 13437
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 5
+Volume: 44
+Degree: 4
+Num Vertices: 4
+Num Boundary: 12
+Num Interior: 17
+Vertices: (-3, 5), (0, -1), (1, 0), (4, 5)
+Dual: (-1, 3/5), (-1, 1), (0, -1/5), (2, 1)
+Boundary: (-3, 5), (-2, 3), (-2, 5), (-1, 1), (-1, 5), (0, -1), (0, 5), (1, 0), (1, 5), (2, 5), (3, 5), (4, 5)
+Interior: (-2, 4), (-1, 2), (-1, 3), (-1, 4), (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4), (2, 2), (2, 3), (2, 4), (3, 4)
+
+ID: 13438
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 5
+Volume: 32
+Degree: 4
+Num Vertices: 4
+Num Boundary: 12
+Num Interior: 11
+Vertices: (-1, -1), (-1, 5), (1, 0), (3, 5)
+Dual: (-1, 2/5), (-1, 2), (0, -1/5), (1, 0)
+Boundary: (-1, -1), (-1, 0), (-1, 1), (-1, 2), (-1, 3), (-1, 4), (-1, 5), (0, 5), (1, 0), (1, 5), (2, 5), (3, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4), (2, 3), (2, 4)
+
+ID: 13439
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 5
+Volume: 28
+Degree: 28/5
+Num Vertices: 4
+Num Boundary: 12
+Num Interior: 9
+Vertices: (-1, 1), (-1, 5), (0, -1), (3, 5)
+Dual: (-2, 1), (0, -1/5), (1, 0), (2, 1)
+Boundary: (-1, 1), (-1, 2), (-1, 3), (-1, 4), (-1, 5), (0, -1), (0, 5), (1, 1), (1, 5), (2, 3), (2, 5), (3, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 2), (1, 3), (1, 4), (2, 4)
+
+ID: 13440
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 5
+Volume: 24
+Degree: 24/5
+Num Vertices: 4
+Num Boundary: 12
+Num Interior: 7
+Vertices: (-15, -2), (0, 1), (1, 0), (6, 1)
+Dual: (-1, 5), (-1, 8), (0, -1), (1/5, -1)
+Boundary: (-15, -2), (-10, -1), (-7, -1), (-5, 0), (0, 1), (1, 0), (1, 1), (2, 1), (3, 1), (4, 1), (5, 1), (6, 1)
+Interior: (-9, -1), (-8, -1), (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13441
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 5
+Volume: 20
+Degree: 32/5
+Num Vertices: 4
+Num Boundary: 12
+Num Interior: 5
+Vertices: (-10, -1), (0, 1), (1, 0), (8, 1)
+Dual: (-1, 7), (-1, 11), (0, -1), (1/5, -1)
+Boundary: (-10, -1), (-5, 0), (0, 1), (1, 0), (1, 1), (2, 1), (3, 1), (4, 1), (5, 1), (6, 1), (7, 1), (8, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13442
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 3
+Volume: 20
+Degree: 8/5
+Num Vertices: 4
+Num Boundary: 12
+Num Interior: 5
+Vertices: (-5, -1), (0, 1), (1, 1), (4, -1)
+Dual: (-2/5, -3/5), (0, -1), (0, 1), (2/5, -1)
+Boundary: (-5, -1), (-4, -1), (-3, -1), (-2, -1), (-1, -1), (0, -1), (0, 1), (1, -1), (1, 1), (2, -1), (3, -1), (4, -1)
+Interior: (-2, 0), (-1, 0), (0, 0), (1, 0), (2, 0)
+
+ID: 13443
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 3
+Volume: 20
+Degree: 8/5
+Num Vertices: 4
+Num Boundary: 12
+Num Interior: 5
+Vertices: (-5, -1), (0, 1), (2, 1), (3, -1)
+Dual: (-2/5, -1/5), (0, -1), (0, 1), (2/5, -1)
+Boundary: (-5, -1), (-4, -1), (-3, -1), (-2, -1), (-1, -1), (0, -1), (0, 1), (1, -1), (1, 1), (2, -1), (2, 1), (3, -1)
+Interior: (-2, 0), (-1, 0), (0, 0), (1, 0), (2, 0)
+
+ID: 13444
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 3
+Volume: 20
+Degree: 8/5
+Num Vertices: 4
+Num Boundary: 12
+Num Interior: 5
+Vertices: (-5, -1), (0, 1), (2, -1), (3, 1)
+Dual: (-2/5, 1/5), (0, -1), (0, 1), (2/5, -1)
+Boundary: (-5, -1), (-4, -1), (-3, -1), (-2, -1), (-1, -1), (0, -1), (0, 1), (1, -1), (1, 1), (2, -1), (2, 1), (3, 1)
+Interior: (-2, 0), (-1, 0), (0, 0), (1, 0), (2, 0)
+
+ID: 13445
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 3
+Volume: 20
+Degree: 8/5
+Num Vertices: 4
+Num Boundary: 12
+Num Interior: 5
+Vertices: (-5, -1), (0, 1), (1, -1), (4, 1)
+Dual: (-2/5, 3/5), (0, -1), (0, 1), (2/5, -1)
+Boundary: (-5, -1), (-4, -1), (-3, -1), (-2, -1), (-1, -1), (0, -1), (0, 1), (1, -1), (1, 1), (2, 1), (3, 1), (4, 1)
+Interior: (-2, 0), (-1, 0), (0, 0), (1, 0), (2, 0)
+
+ID: 13446
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 3
+Volume: 20
+Degree: 8/5
+Num Vertices: 4
+Num Boundary: 12
+Num Interior: 5
+Vertices: (-5, -1), (0, -1), (0, 1), (5, 1)
+Dual: (-2/5, 1), (0, -1), (0, 1), (2/5, -1)
+Boundary: (-5, -1), (-4, -1), (-3, -1), (-2, -1), (-1, -1), (0, -1), (0, 1), (1, 1), (2, 1), (3, 1), (4, 1), (5, 1)
+Interior: (-2, 0), (-1, 0), (0, 0), (1, 0), (2, 0)
+
+ID: 13447
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 5
+Volume: 39
+Degree: 21/5
+Num Vertices: 4
+Num Boundary: 11
+Num Interior: 15
+Vertices: (-3, 5), (-1, 0), (0, -1), (3, 5)
+Dual: (-2, 1), (0, -1/5), (1, 2/5), (1, 1)
+Boundary: (-3, 5), (-2, 5), (-1, 0), (-1, 5), (0, -1), (0, 5), (1, 1), (1, 5), (2, 3), (2, 5), (3, 5)
+Interior: (-2, 3), (-2, 4), (-1, 1), (-1, 2), (-1, 3), (-1, 4), (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 2), (1, 3), (1, 4), (2, 4)
+
+ID: 13448
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 5
+Volume: 27
+Degree: 21/5
+Num Vertices: 4
+Num Boundary: 11
+Num Interior: 9
+Vertices: (-1, -1), (-1, 5), (1, 0), (2, 5)
+Dual: (-1, 1/5), (-1, 2), (0, -1/5), (1, 0)
+Boundary: (-1, -1), (-1, 0), (-1, 1), (-1, 2), (-1, 3), (-1, 4), (-1, 5), (0, 5), (1, 0), (1, 5), (2, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4)
+
+ID: 13449
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 5
+Volume: 27
+Degree: 33/5
+Num Vertices: 4
+Num Boundary: 11
+Num Interior: 9
+Vertices: (-1, 2), (-1, 5), (0, -1), (3, 5)
+Dual: (-2, 1), (0, -1/5), (1, 0), (3, 1)
+Boundary: (-1, 2), (-1, 3), (-1, 4), (-1, 5), (0, -1), (0, 5), (1, 1), (1, 5), (2, 3), (2, 5), (3, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 2), (1, 3), (1, 4), (2, 4)
+
+ID: 13450
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 5
+Volume: 23
+Degree: 29/5
+Num Vertices: 4
+Num Boundary: 11
+Num Interior: 7
+Vertices: (-15, -2), (0, 1), (1, 0), (5, 1)
+Dual: (-1, 4), (-1, 8), (0, -1), (1/5, -1)
+Boundary: (-15, -2), (-10, -1), (-7, -1), (-5, 0), (0, 1), (1, 0), (1, 1), (2, 1), (3, 1), (4, 1), (5, 1)
+Interior: (-9, -1), (-8, -1), (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13451
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 5
+Volume: 19
+Degree: 37/5
+Num Vertices: 4
+Num Boundary: 11
+Num Interior: 5
+Vertices: (-10, -1), (0, 1), (1, 0), (7, 1)
+Dual: (-1, 6), (-1, 11), (0, -1), (1/5, -1)
+Boundary: (-10, -1), (-5, 0), (0, 1), (1, 0), (1, 1), (2, 1), (3, 1), (4, 1), (5, 1), (6, 1), (7, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13452
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 5
+Volume: 38
+Degree: 26/5
+Num Vertices: 4
+Num Boundary: 10
+Num Interior: 15
+Vertices: (-2, 5), (0, -1), (1, 0), (4, 5)
+Dual: (-1, 3/5), (-1, 1), (0, -1/5), (3, 1)
+Boundary: (-2, 5), (-1, 2), (-1, 5), (0, -1), (0, 5), (1, 0), (1, 5), (2, 5), (3, 5), (4, 5)
+Interior: (-1, 3), (-1, 4), (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4), (2, 2), (2, 3), (2, 4), (3, 4)
+
+ID: 13453
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 5
+Volume: 34
+Degree: 22/5
+Num Vertices: 4
+Num Boundary: 10
+Num Interior: 13
+Vertices: (-2, 5), (-1, 5), (0, 1), (3, -20)
+Dual: (-7, -1), (-4, -1), (0, -1/5), (1, 1/5)
+Boundary: (-2, 5), (-1, 0), (-1, 5), (0, -5), (0, 1), (1, -10), (1, -6), (2, -15), (2, -13), (3, -20)
+Interior: (-1, 1), (-1, 2), (-1, 3), (-1, 4), (0, -4), (0, -3), (0, -2), (0, -1), (0, 0), (1, -9), (1, -8), (1, -7), (2, -14)
+
+ID: 13454
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 5, 5, 5
+Order: 3
+Volume: 30
+Degree: 6/5
+Num Vertices: 4
+Num Boundary: 10
+Num Interior: 11
+Vertices: (-3, 5), (-2, 5), (1, -5), (3, -5)
+Dual: (-2, -1), (0, -1/5), (0, 1/5), (1, 2/5)
+Boundary: (-3, 5), (-2, 5), (-1, 0), (-1, 3), (0, 1), (1, -5), (1, -1), (2, -5), (2, -3), (3, -5)
+Interior: (-2, 3), (-2, 4), (-1, 1), (-1, 2), (0, -2), (0, -1), (0, 0), (1, -4), (1, -3), (1, -2), (2, -4)
+
+ID: 13455
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 5
+Volume: 26
+Degree: 38/5
+Num Vertices: 4
+Num Boundary: 10
+Num Interior: 9
+Vertices: (-1, 3), (-1, 5), (0, -1), (3, 5)
+Dual: (-2, 1), (0, -1/5), (1, 0), (4, 1)
+Boundary: (-1, 3), (-1, 4), (-1, 5), (0, -1), (0, 5), (1, 1), (1, 5), (2, 3), (2, 5), (3, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 2), (1, 3), (1, 4), (2, 4)
+
+ID: 13456
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 3
+Volume: 22
+Degree: 2
+Num Vertices: 4
+Num Boundary: 10
+Num Interior: 7
+Vertices: (-3, 5), (-2, 5), (1, -5), (1, -1)
+Dual: (-2, -1), (-1, 0), (0, -1/5), (1, 2/5)
+Boundary: (-3, 5), (-2, 5), (-1, 0), (-1, 3), (0, 1), (1, -5), (1, -4), (1, -3), (1, -2), (1, -1)
+Interior: (-2, 3), (-2, 4), (-1, 1), (-1, 2), (0, -2), (0, -1), (0, 0)
+
+ID: 13457
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 5
+Volume: 22
+Degree: 34/5
+Num Vertices: 4
+Num Boundary: 10
+Num Interior: 7
+Vertices: (-15, -2), (0, 1), (1, 0), (4, 1)
+Dual: (-1, 3), (-1, 8), (0, -1), (1/5, -1)
+Boundary: (-15, -2), (-10, -1), (-7, -1), (-5, 0), (0, 1), (1, 0), (1, 1), (2, 1), (3, 1), (4, 1)
+Interior: (-9, -1), (-8, -1), (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13458
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 5
+Volume: 18
+Degree: 42/5
+Num Vertices: 4
+Num Boundary: 10
+Num Interior: 5
+Vertices: (-10, -1), (0, 1), (1, 0), (6, 1)
+Dual: (-1, 5), (-1, 11), (0, -1), (1/5, -1)
+Boundary: (-10, -1), (-5, 0), (0, 1), (1, 0), (1, 1), (2, 1), (3, 1), (4, 1), (5, 1), (6, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13459
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 3
+Volume: 14
+Degree: 14/5
+Num Vertices: 4
+Num Boundary: 10
+Num Interior: 3
+Vertices: (-5, -1), (0, 1), (1, -1), (1, 1)
+Dual: (-1, 0), (0, -1), (0, 1), (2/5, -1)
+Boundary: (-5, -1), (-4, -1), (-3, -1), (-2, -1), (-1, -1), (0, -1), (0, 1), (1, -1), (1, 0), (1, 1)
+Interior: (-2, 0), (-1, 0), (0, 0)
+
+ID: 13460
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 3
+Volume: 14
+Degree: 14/5
+Num Vertices: 4
+Num Boundary: 10
+Num Interior: 3
+Vertices: (-5, -1), (0, -1), (0, 1), (2, 1)
+Dual: (-1, 1), (0, -1), (0, 1), (2/5, -1)
+Boundary: (-5, -1), (-4, -1), (-3, -1), (-2, -1), (-1, -1), (0, -1), (0, 1), (1, 0), (1, 1), (2, 1)
+Interior: (-2, 0), (-1, 0), (0, 0)
+
+ID: 13461
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 3
+Volume: 14
+Degree: 14/5
+Num Vertices: 4
+Num Boundary: 10
+Num Interior: 3
+Vertices: (-5, -1), (-1, -1), (0, 1), (3, 1)
+Dual: (-1, 2), (0, -1), (0, 1), (2/5, -1)
+Boundary: (-5, -1), (-4, -1), (-3, -1), (-2, -1), (-1, -1), (0, 1), (1, 0), (1, 1), (2, 1), (3, 1)
+Interior: (-2, 0), (-1, 0), (0, 0)
+
+ID: 13462
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 5
+Volume: 33
+Degree: 27/5
+Num Vertices: 4
+Num Boundary: 9
+Num Interior: 13
+Vertices: (-2, 5), (0, -1), (1, 0), (3, 5)
+Dual: (-1, 2/5), (-1, 1), (0, -1/5), (3, 1)
+Boundary: (-2, 5), (-1, 2), (-1, 5), (0, -1), (0, 5), (1, 0), (1, 5), (2, 5), (3, 5)
+Interior: (-1, 3), (-1, 4), (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4), (2, 3), (2, 4)
+
+ID: 13463
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 5, 5, 5
+Order: 3
+Volume: 25
+Degree: 7/5
+Num Vertices: 4
+Num Boundary: 9
+Num Interior: 9
+Vertices: (-2, 5), (-1, 5), (1, 0), (3, -10)
+Dual: (-1, -2/5), (-1, -1/5), (0, -1/5), (3, 1)
+Boundary: (-2, 5), (-1, 2), (-1, 5), (0, -1), (1, -4), (1, 0), (2, -7), (2, -5), (3, -10)
+Interior: (-1, 3), (-1, 4), (0, 0), (0, 1), (0, 2), (1, -3), (1, -2), (1, -1), (2, -6)
+
+ID: 13464
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 5
+Volume: 25
+Degree: 43/5
+Num Vertices: 4
+Num Boundary: 9
+Num Interior: 9
+Vertices: (-1, 4), (-1, 5), (0, -1), (3, 5)
+Dual: (-2, 1), (0, -1/5), (1, 0), (5, 1)
+Boundary: (-1, 4), (-1, 5), (0, -1), (0, 5), (1, 1), (1, 5), (2, 3), (2, 5), (3, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 2), (1, 3), (1, 4), (2, 4)
+
+ID: 13465
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 5
+Volume: 21
+Degree: 39/5
+Num Vertices: 4
+Num Boundary: 9
+Num Interior: 7
+Vertices: (-15, -2), (0, 1), (1, 0), (3, 1)
+Dual: (-1, 2), (-1, 8), (0, -1), (1/5, -1)
+Boundary: (-15, -2), (-10, -1), (-7, -1), (-5, 0), (0, 1), (1, 0), (1, 1), (2, 1), (3, 1)
+Interior: (-9, -1), (-8, -1), (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13466
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 3
+Volume: 17
+Degree: 11/5
+Num Vertices: 4
+Num Boundary: 9
+Num Interior: 5
+Vertices: (-2, 5), (-1, 5), (1, -4), (1, 0)
+Dual: (-1, -2/5), (-1, 0), (0, -1/5), (3, 1)
+Boundary: (-2, 5), (-1, 2), (-1, 5), (0, -1), (1, -4), (1, -3), (1, -2), (1, -1), (1, 0)
+Interior: (-1, 3), (-1, 4), (0, 0), (0, 1), (0, 2)
+
+ID: 13467
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 5
+Volume: 17
+Degree: 47/5
+Num Vertices: 4
+Num Boundary: 9
+Num Interior: 5
+Vertices: (-10, -1), (0, 1), (1, 0), (5, 1)
+Dual: (-1, 4), (-1, 11), (0, -1), (1/5, -1)
+Boundary: (-10, -1), (-5, 0), (0, 1), (1, 0), (1, 1), (2, 1), (3, 1), (4, 1), (5, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13468
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 3
+Volume: 13
+Degree: 19/5
+Num Vertices: 4
+Num Boundary: 9
+Num Interior: 3
+Vertices: (-1, -1), (-1, 0), (0, 1), (6, 1)
+Dual: (-2/5, 7/5), (0, -1), (1, -1), (1, 0)
+Boundary: (-1, -1), (-1, 0), (0, 1), (1, 1), (2, 1), (3, 1), (4, 1), (5, 1), (6, 1)
+Interior: (0, 0), (1, 0), (2, 0)
+
+ID: 13469
+Min Loc Index: 5
+Max Loc Index: 5
+Local Indices: 5, 5, 5, 5
+Order: 3
+Volume: 40
+Degree: 4/5
+Num Vertices: 4
+Num Boundary: 8
+Num Interior: 17
+Vertices: (-3, 5), (-2, 5), (1, -5), (4, -5)
+Dual: (-1, -3/5), (0, -1/5), (0, 1/5), (1, 2/5)
+Boundary: (-3, 5), (-2, 5), (-1, 0), (1, -5), (1, 0), (2, -5), (3, -5), (4, -5)
+Interior: (-2, 3), (-2, 4), (-1, 1), (-1, 2), (-1, 3), (0, -2), (0, -1), (0, 0), (0, 1), (1, -4), (1, -3), (1, -2), (1, -1), (2, -4), (2, -3), (2, -2), (3, -4)
+
+ID: 13470
+Min Loc Index: 5
+Max Loc Index: 5
+Local Indices: 5, 5, 5, 5
+Order: 3
+Volume: 40
+Degree: 4/5
+Num Vertices: 4
+Num Boundary: 8
+Num Interior: 17
+Vertices: (-3, 5), (-1, 5), (1, -5), (3, -5)
+Dual: (-1, -2/5), (0, -1/5), (0, 1/5), (1, 2/5)
+Boundary: (-3, 5), (-2, 5), (-1, 0), (-1, 5), (1, -5), (1, 0), (2, -5), (3, -5)
+Interior: (-2, 3), (-2, 4), (-1, 1), (-1, 2), (-1, 3), (-1, 4), (0, -2), (0, -1), (0, 0), (0, 1), (0, 2), (1, -4), (1, -3), (1, -2), (1, -1), (2, -4), (2, -3)
+
+ID: 13471
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 5
+Volume: 32
+Degree: 44/5
+Num Vertices: 4
+Num Boundary: 8
+Num Interior: 13
+Vertices: (-1, 5), (0, -1), (1, 0), (4, 5)
+Dual: (-1, 3/5), (-1, 1), (0, -1/5), (6, 1)
+Boundary: (-1, 5), (0, -1), (0, 5), (1, 0), (1, 5), (2, 5), (3, 5), (4, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4), (2, 2), (2, 3), (2, 4), (3, 4)
+
+ID: 13472
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 5
+Volume: 28
+Degree: 28/5
+Num Vertices: 4
+Num Boundary: 8
+Num Interior: 11
+Vertices: (-2, 5), (-1, 5), (0, 1), (2, -15)
+Dual: (-8, -1), (-4, -1), (0, -1/5), (1, 1/5)
+Boundary: (-2, 5), (-1, 0), (-1, 5), (0, -5), (0, 1), (1, -10), (1, -7), (2, -15)
+Interior: (-1, 1), (-1, 2), (-1, 3), (-1, 4), (0, -4), (0, -3), (0, -2), (0, -1), (0, 0), (1, -9), (1, -8)
+
+ID: 13473
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 3
+Volume: 24
+Degree: 12/5
+Num Vertices: 4
+Num Boundary: 8
+Num Interior: 9
+Vertices: (-3, 5), (-1, 5), (1, -5), (1, -3)
+Dual: (-4, -1), (-1, 0), (0, -1/5), (1, 2/5)
+Boundary: (-3, 5), (-2, 5), (-1, 0), (-1, 5), (0, 1), (1, -5), (1, -4), (1, -3)
+Interior: (-2, 3), (-2, 4), (-1, 1), (-1, 2), (-1, 3), (-1, 4), (0, -2), (0, -1), (0, 0)
+
+ID: 13474
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 5, 5, 5
+Order: 3
+Volume: 20
+Degree: 8/5
+Num Vertices: 4
+Num Boundary: 8
+Num Interior: 7
+Vertices: (-2, 5), (-1, 5), (1, -5), (1, 0)
+Dual: (-1, -2/5), (-1, 0), (0, -1/5), (2, 3/5)
+Boundary: (-2, 5), (-1, 5), (1, -5), (1, -4), (1, -3), (1, -2), (1, -1), (1, 0)
+Interior: (-1, 2), (-1, 3), (-1, 4), (0, -1), (0, 0), (0, 1), (0, 2)
+
+ID: 13475
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 5
+Volume: 20
+Degree: 44/5
+Num Vertices: 4
+Num Boundary: 8
+Num Interior: 7
+Vertices: (-15, -2), (0, 1), (1, 0), (2, 1)
+Dual: (-1, 1), (-1, 8), (0, -1), (1/5, -1)
+Boundary: (-15, -2), (-10, -1), (-7, -1), (-5, 0), (0, 1), (1, 0), (1, 1), (2, 1)
+Interior: (-9, -1), (-8, -1), (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13476
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 5
+Volume: 16
+Degree: 52/5
+Num Vertices: 4
+Num Boundary: 8
+Num Interior: 5
+Vertices: (-10, -1), (0, 1), (1, 0), (4, 1)
+Dual: (-1, 3), (-1, 11), (0, -1), (1/5, -1)
+Boundary: (-10, -1), (-5, 0), (0, 1), (1, 0), (1, 1), (2, 1), (3, 1), (4, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13477
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 3
+Volume: 12
+Degree: 24/5
+Num Vertices: 4
+Num Boundary: 8
+Num Interior: 3
+Vertices: (-5, -1), (0, -1), (0, 1), (1, 1)
+Dual: (-2, 1), (0, -1), (0, 1), (2/5, -1)
+Boundary: (-5, -1), (-4, -1), (-3, -1), (-2, -1), (-1, -1), (0, -1), (0, 1), (1, 1)
+Interior: (-2, 0), (-1, 0), (0, 0)
+
+ID: 13478
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 3
+Volume: 12
+Degree: 24/5
+Num Vertices: 4
+Num Boundary: 8
+Num Interior: 3
+Vertices: (-5, -1), (-1, -1), (0, 1), (2, 1)
+Dual: (-2, 3), (0, -1), (0, 1), (2/5, -1)
+Boundary: (-5, -1), (-4, -1), (-3, -1), (-2, -1), (-1, -1), (0, 1), (1, 1), (2, 1)
+Interior: (-2, 0), (-1, 0), (0, 0)
+
+ID: 13479
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 3
+Volume: 12
+Degree: 24/5
+Num Vertices: 4
+Num Boundary: 8
+Num Interior: 3
+Vertices: (-1, 0), (0, -1), (0, 1), (5, 1)
+Dual: (-2/5, 1), (0, -1), (1, -1), (1, 1)
+Boundary: (-1, 0), (0, -1), (0, 1), (1, 1), (2, 1), (3, 1), (4, 1), (5, 1)
+Interior: (0, 0), (1, 0), (2, 0)
+
+ID: 13480
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 3
+Volume: 12
+Degree: 24/5
+Num Vertices: 4
+Num Boundary: 8
+Num Interior: 3
+Vertices: (-5, -1), (-2, -1), (0, 1), (3, 1)
+Dual: (-2, 5), (0, -1), (0, 1), (2/5, -1)
+Boundary: (-5, -1), (-4, -1), (-3, -1), (-2, -1), (0, 1), (1, 1), (2, 1), (3, 1)
+Interior: (-2, 0), (-1, 0), (0, 0)
+
+ID: 13481
+Min Loc Index: 5
+Max Loc Index: 5
+Local Indices: 5, 5, 5, 5
+Order: 3
+Volume: 35
+Degree: 1
+Num Vertices: 4
+Num Boundary: 7
+Num Interior: 15
+Vertices: (-2, 5), (-1, 5), (1, 0), (4, -15)
+Dual: (-1, -2/5), (-1, -1/5), (0, -1/5), (2, 3/5)
+Boundary: (-2, 5), (-1, 5), (1, -5), (1, 0), (2, -5), (3, -10), (4, -15)
+Interior: (-1, 2), (-1, 3), (-1, 4), (0, -1), (0, 0), (0, 1), (0, 2), (1, -4), (1, -3), (1, -2), (1, -1), (2, -8), (2, -7), (2, -6), (3, -11)
+
+ID: 13482
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 5
+Volume: 27
+Degree: 9
+Num Vertices: 4
+Num Boundary: 7
+Num Interior: 11
+Vertices: (-1, 5), (0, -1), (1, 0), (3, 5)
+Dual: (-1, 2/5), (-1, 1), (0, -1/5), (6, 1)
+Boundary: (-1, 5), (0, -1), (0, 5), (1, 0), (1, 5), (2, 5), (3, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4), (2, 3), (2, 4)
+
+ID: 13483
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 3
+Volume: 19
+Degree: 5
+Num Vertices: 4
+Num Boundary: 7
+Num Interior: 7
+Vertices: (-3, 5), (-2, 5), (1, -5), (1, -2)
+Dual: (-7, -3), (-1, 0), (0, -1/5), (1, 2/5)
+Boundary: (-3, 5), (-2, 5), (-1, 0), (1, -5), (1, -4), (1, -3), (1, -2)
+Interior: (-2, 3), (-2, 4), (-1, 1), (-1, 2), (0, -2), (0, -1), (0, 0)
+
+ID: 13484
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 5
+Volume: 19
+Degree: 49/5
+Num Vertices: 4
+Num Boundary: 7
+Num Interior: 7
+Vertices: (-15, -2), (0, 1), (1, 0), (1, 1)
+Dual: (-1, 0), (-1, 8), (0, -1), (1/5, -1)
+Boundary: (-15, -2), (-10, -1), (-7, -1), (-5, 0), (0, 1), (1, 0), (1, 1)
+Interior: (-9, -1), (-8, -1), (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13485
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 5
+Volume: 15
+Degree: 57/5
+Num Vertices: 4
+Num Boundary: 7
+Num Interior: 5
+Vertices: (-10, -1), (0, 1), (1, 0), (3, 1)
+Dual: (-1, 2), (-1, 11), (0, -1), (1/5, -1)
+Boundary: (-10, -1), (-5, 0), (0, 1), (1, 0), (1, 1), (2, 1), (3, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13486
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 3
+Volume: 11
+Degree: 29/5
+Num Vertices: 4
+Num Boundary: 7
+Num Interior: 3
+Vertices: (-1, 0), (0, 1), (1, -1), (4, 1)
+Dual: (-2/5, 3/5), (0, -1), (1, -1), (1, 2)
+Boundary: (-1, 0), (0, 1), (1, -1), (1, 1), (2, 1), (3, 1), (4, 1)
+Interior: (0, 0), (1, 0), (2, 0)
+
+ID: 13487
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 2
+Volume: 11
+Degree: 17/5
+Num Vertices: 4
+Num Boundary: 7
+Num Interior: 3
+Vertices: (-1, -2), (-1, 0), (0, 1), (3, 1)
+Dual: (-3/5, 4/5), (0, -1), (1, -1), (1, 0)
+Boundary: (-1, -2), (-1, -1), (-1, 0), (0, 1), (1, 1), (2, 1), (3, 1)
+Interior: (0, -1), (0, 0), (1, 0)
+
+ID: 13488
+Min Loc Index: 5
+Max Loc Index: 5
+Local Indices: 5, 5, 5, 5
+Order: 3
+Volume: 30
+Degree: 6/5
+Num Vertices: 4
+Num Boundary: 6
+Num Interior: 13
+Vertices: (-2, 5), (-1, 5), (2, -5), (4, -15)
+Dual: (-2, -3/5), (-1, -1/5), (0, -1/5), (2, 3/5)
+Boundary: (-2, 5), (-1, 5), (1, -5), (2, -5), (3, -10), (4, -15)
+Interior: (-1, 2), (-1, 3), (-1, 4), (0, -1), (0, 0), (0, 1), (1, -4), (1, -3), (1, -2), (2, -8), (2, -7), (2, -6), (3, -11)
+
+ID: 13489
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 3
+Volume: 22
+Degree: 22/5
+Num Vertices: 4
+Num Boundary: 6
+Num Interior: 9
+Vertices: (-3, 5), (-1, 5), (1, -5), (1, -4)
+Dual: (-9, -2), (-1, 0), (0, -1/5), (1, 2/5)
+Boundary: (-3, 5), (-2, 5), (-1, 0), (-1, 5), (1, -5), (1, -4)
+Interior: (-2, 3), (-2, 4), (-1, 1), (-1, 2), (-1, 3), (-1, 4), (0, -2), (0, -1), (0, 0)
+
+ID: 13490
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 3
+Volume: 22
+Degree: 22/5
+Num Vertices: 4
+Num Boundary: 6
+Num Interior: 9
+Vertices: (-3, 5), (-1, 5), (0, 1), (1, -5)
+Dual: (-6, -1), (-4, -1), (0, -1/5), (1, 2/5)
+Boundary: (-3, 5), (-2, 5), (-1, 0), (-1, 5), (0, 1), (1, -5)
+Interior: (-2, 3), (-2, 4), (-1, 1), (-1, 2), (-1, 3), (-1, 4), (0, -2), (0, -1), (0, 0)
+
+ID: 13491
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 5
+Volume: 22
+Degree: 46/5
+Num Vertices: 4
+Num Boundary: 6
+Num Interior: 9
+Vertices: (-1, 5), (0, -1), (1, 0), (2, 5)
+Dual: (-1, 1/5), (-1, 1), (0, -1/5), (6, 1)
+Boundary: (-1, 5), (0, -1), (0, 5), (1, 0), (1, 5), (2, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4)
+
+ID: 13492
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 3
+Volume: 18
+Degree: 6
+Num Vertices: 4
+Num Boundary: 6
+Num Interior: 7
+Vertices: (-3, 5), (-2, 5), (0, 1), (1, -5)
+Dual: (-6, -1), (-2, -1), (0, -1/5), (1, 2/5)
+Boundary: (-3, 5), (-2, 5), (-1, 0), (-1, 3), (0, 1), (1, -5)
+Interior: (-2, 3), (-2, 4), (-1, 1), (-1, 2), (0, -2), (0, -1), (0, 0)
+
+ID: 13493
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 2
+Volume: 14
+Degree: 14/5
+Num Vertices: 4
+Num Boundary: 6
+Num Interior: 5
+Vertices: (-2, 5), (-1, 5), (1, -5), (1, -3)
+Dual: (-4, -1), (-1, 0), (0, -1/5), (2, 3/5)
+Boundary: (-2, 5), (-1, 5), (0, 1), (1, -5), (1, -4), (1, -3)
+Interior: (-1, 2), (-1, 3), (-1, 4), (0, -1), (0, 0)
+
+ID: 13494
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 3
+Volume: 14
+Degree: 26/5
+Num Vertices: 4
+Num Boundary: 6
+Num Interior: 5
+Vertices: (-2, 5), (-1, 5), (1, -3), (1, 0)
+Dual: (-1, -2/5), (-1, 0), (0, -1/5), (8, 3)
+Boundary: (-2, 5), (-1, 5), (1, -3), (1, -2), (1, -1), (1, 0)
+Interior: (-1, 3), (-1, 4), (0, 0), (0, 1), (0, 2)
+
+ID: 13495
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 5
+Volume: 14
+Degree: 62/5
+Num Vertices: 4
+Num Boundary: 6
+Num Interior: 5
+Vertices: (-10, -1), (0, 1), (1, 0), (2, 1)
+Dual: (-1, 1), (-1, 11), (0, -1), (1/5, -1)
+Boundary: (-10, -1), (-5, 0), (0, 1), (1, 0), (1, 1), (2, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13496
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 3
+Volume: 10
+Degree: 34/5
+Num Vertices: 4
+Num Boundary: 6
+Num Interior: 3
+Vertices: (-5, -1), (0, 1), (1, 0), (3, 1)
+Dual: (-1, 2), (-1, 6), (0, -1), (2/5, -1)
+Boundary: (-5, -1), (0, 1), (1, 0), (1, 1), (2, 1), (3, 1)
+Interior: (-2, 0), (-1, 0), (0, 0)
+
+ID: 13497
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 2
+Volume: 10
+Degree: 22/5
+Num Vertices: 4
+Num Boundary: 6
+Num Interior: 3
+Vertices: (-2, 5), (-1, 5), (0, 1), (1, -4)
+Dual: (-5, -1), (-4, -1), (0, -1/5), (3, 1)
+Boundary: (-2, 5), (-1, 2), (-1, 5), (0, -1), (0, 1), (1, -4)
+Interior: (-1, 3), (-1, 4), (0, 0)
+
+ID: 13498
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 2
+Volume: 10
+Degree: 22/5
+Num Vertices: 4
+Num Boundary: 6
+Num Interior: 3
+Vertices: (-1, 0), (0, 1), (1, -2), (2, 1)
+Dual: (-3/5, 1/5), (0, -1), (1, -1), (1, 1)
+Boundary: (-1, 0), (0, -1), (0, 1), (1, -2), (1, 1), (2, 1)
+Interior: (0, 0), (1, -1), (1, 0)
+
+ID: 13499
+Min Loc Index: 5
+Max Loc Index: 5
+Local Indices: 5, 5, 5, 5
+Order: 3
+Volume: 25
+Degree: 7/5
+Num Vertices: 4
+Num Boundary: 5
+Num Interior: 11
+Vertices: (-2, 5), (-1, 0), (-1, 5), (3, -10)
+Dual: (-3, -4/5), (0, -1/5), (1, 1/5), (1, 2/5)
+Boundary: (-2, 5), (-1, 0), (-1, 5), (1, -5), (3, -10)
+Interior: (-1, 1), (-1, 2), (-1, 3), (-1, 4), (0, -2), (0, -1), (0, 0), (0, 1), (1, -4), (1, -3), (2, -7)
+
+ID: 13500
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 3
+Volume: 13
+Degree: 31/5
+Num Vertices: 4
+Num Boundary: 5
+Num Interior: 5
+Vertices: (-2, 5), (-1, 5), (0, -1), (1, 0)
+Dual: (-1, -2/5), (-1, 1), (0, -1/5), (3, 1)
+Boundary: (-2, 5), (-1, 2), (-1, 5), (0, -1), (1, 0)
+Interior: (-1, 3), (-1, 4), (0, 0), (0, 1), (0, 2)
+
+ID: 13501
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 5
+Volume: 13
+Degree: 67/5
+Num Vertices: 4
+Num Boundary: 5
+Num Interior: 5
+Vertices: (-10, -1), (0, 1), (1, 0), (1, 1)
+Dual: (-1, 0), (-1, 11), (0, -1), (1/5, -1)
+Boundary: (-10, -1), (-5, 0), (0, 1), (1, 0), (1, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13502
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 3
+Volume: 9
+Degree: 39/5
+Num Vertices: 4
+Num Boundary: 5
+Num Interior: 3
+Vertices: (-5, -1), (0, 1), (1, 0), (2, 1)
+Dual: (-1, 1), (-1, 6), (0, -1), (2/5, -1)
+Boundary: (-5, -1), (0, 1), (1, 0), (1, 1), (2, 1)
+Interior: (-2, 0), (-1, 0), (0, 0)
+
+ID: 13503
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 2
+Volume: 9
+Degree: 27/5
+Num Vertices: 4
+Num Boundary: 5
+Num Interior: 3
+Vertices: (-5, -2), (0, 1), (1, 0), (1, 1)
+Dual: (-1, 0), (-1, 3), (0, -1), (3/5, -1)
+Boundary: (-5, -2), (-2, -1), (0, 1), (1, 0), (1, 1)
+Interior: (-3, -1), (-1, 0), (0, 0)
+
+ID: 13504
+Min Loc Index: 5
+Max Loc Index: 5
+Local Indices: 5, 5, 5, 5
+Order: 2
+Volume: 20
+Degree: 8/5
+Num Vertices: 4
+Num Boundary: 4
+Num Interior: 9
+Vertices: (-2, 5), (-1, 0), (-1, 5), (2, -5)
+Dual: (-2, -3/5), (0, -1/5), (1, 1/5), (1, 3/5)
+Boundary: (-2, 5), (-1, 0), (-1, 5), (2, -5)
+Interior: (-1, 1), (-1, 2), (-1, 3), (-1, 4), (0, -1), (0, 0), (0, 1), (1, -3), (1, -2)
+
+ID: 13505
+Min Loc Index: 5
+Max Loc Index: 5
+Local Indices: 5, 5, 5, 5
+Order: 2
+Volume: 20
+Degree: 8/5
+Num Vertices: 4
+Num Boundary: 4
+Num Interior: 9
+Vertices: (-2, 5), (-1, 5), (1, -5), (2, -5)
+Dual: (-2, -3/5), (0, -1/5), (0, 1/5), (2, 3/5)
+Boundary: (-2, 5), (-1, 5), (1, -5), (2, -5)
+Interior: (-1, 2), (-1, 3), (-1, 4), (0, -1), (0, 0), (0, 1), (1, -4), (1, -3), (1, -2)
+
+ID: 13506
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 2
+Volume: 12
+Degree: 24/5
+Num Vertices: 4
+Num Boundary: 4
+Num Interior: 5
+Vertices: (-2, 5), (-1, 5), (1, -5), (1, -4)
+Dual: (-9, -2), (-1, 0), (0, -1/5), (2, 3/5)
+Boundary: (-2, 5), (-1, 5), (1, -5), (1, -4)
+Interior: (-1, 2), (-1, 3), (-1, 4), (0, -1), (0, 0)
+
+ID: 13507
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5, 5
+Order: 2
+Volume: 12
+Degree: 24/5
+Num Vertices: 4
+Num Boundary: 4
+Num Interior: 5
+Vertices: (-2, 5), (-1, 5), (0, 1), (1, -5)
+Dual: (-6, -1), (-4, -1), (0, -1/5), (2, 3/5)
+Boundary: (-2, 5), (-1, 5), (0, 1), (1, -5)
+Interior: (-1, 2), (-1, 3), (-1, 4), (0, -1), (0, 0)
+
+ID: 13508
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 1, 5
+Order: 3
+Volume: 8
+Degree: 44/5
+Num Vertices: 4
+Num Boundary: 4
+Num Interior: 3
+Vertices: (-5, -1), (0, 1), (1, 0), (1, 1)
+Dual: (-1, 0), (-1, 6), (0, -1), (2/5, -1)
+Boundary: (-5, -1), (0, 1), (1, 0), (1, 1)
+Interior: (-2, 0), (-1, 0), (0, 0)
+
+ID: 13509
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5
+Order: 5
+Volume: 72
+Degree: 12/5
+Num Vertices: 3
+Num Boundary: 24
+Num Interior: 25
+Vertices: (-1, -1), (-1, 5), (11, 5)
+Dual: (-1, 2), (0, -1/5), (1, 0)
+Boundary: (-1, -1), (-1, 0), (-1, 1), (-1, 2), (-1, 3), (-1, 4), (-1, 5), (0, 5), (1, 0), (1, 5), (2, 5), (3, 1), (3, 5), (4, 5), (5, 2), (5, 5), (6, 5), (7, 3), (7, 5), (8, 5), (9, 4), (9, 5), (10, 5), (11, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4), (2, 1), (2, 2), (2, 3), (2, 4), (3, 2), (3, 3), (3, 4), (4, 2), (4, 3), (4, 4), (5, 3), (5, 4), (6, 3), (6, 4), (7, 4), (8, 4)
+
+ID: 13510
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 5, 5
+Order: 5
+Volume: 40
+Degree: 4/5
+Num Vertices: 3
+Num Boundary: 24
+Num Interior: 9
+Vertices: (-10, -1), (0, 1), (20, 1)
+Dual: (-1/5, 3), (0, -1), (1/5, -1)
+Boundary: (-10, -1), (-5, 0), (0, 1), (1, 1), (2, 1), (3, 1), (4, 1), (5, 0), (5, 1), (6, 1), (7, 1), (8, 1), (9, 1), (10, 1), (11, 1), (12, 1), (13, 1), (14, 1), (15, 1), (16, 1), (17, 1), (18, 1), (19, 1), (20, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0), (1, 0), (2, 0), (3, 0), (4, 0)
+
+ID: 13511
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5
+Order: 5
+Volume: 49
+Degree: 7/5
+Num Vertices: 3
+Num Boundary: 21
+Num Interior: 15
+Vertices: (-1, -2), (-1, 5), (6, 5)
+Dual: (-1, 1), (0, -1/5), (1, 0)
+Boundary: (-1, -2), (-1, -1), (-1, 0), (-1, 1), (-1, 2), (-1, 3), (-1, 4), (-1, 5), (0, -1), (0, 5), (1, 0), (1, 5), (2, 1), (2, 5), (3, 2), (3, 5), (4, 3), (4, 5), (5, 4), (5, 5), (6, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4), (2, 2), (2, 3), (2, 4), (3, 3), (3, 4), (4, 4)
+
+ID: 13512
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 5, 5
+Order: 5
+Volume: 45
+Degree: 3/5
+Num Vertices: 3
+Num Boundary: 21
+Num Interior: 13
+Vertices: (-15, -2), (0, 1), (15, 1)
+Dual: (-1/5, 2), (0, -1), (1/5, -1)
+Boundary: (-15, -2), (-10, -1), (-5, -1), (-5, 0), (0, 1), (1, 1), (2, 1), (3, 1), (4, 1), (5, 0), (5, 1), (6, 1), (7, 1), (8, 1), (9, 1), (10, 1), (11, 1), (12, 1), (13, 1), (14, 1), (15, 1)
+Interior: (-9, -1), (-8, -1), (-7, -1), (-6, -1), (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0), (1, 0), (2, 0), (3, 0), (4, 0)
+
+ID: 13513
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5
+Order: 5
+Volume: 54
+Degree: 18/5
+Num Vertices: 3
+Num Boundary: 18
+Num Interior: 19
+Vertices: (-1, -1), (-1, 5), (8, 5)
+Dual: (-2, 3), (0, -1/5), (1, 0)
+Boundary: (-1, -1), (-1, 0), (-1, 1), (-1, 2), (-1, 3), (-1, 4), (-1, 5), (0, 5), (1, 5), (2, 1), (2, 5), (3, 5), (4, 5), (5, 3), (5, 5), (6, 5), (7, 5), (8, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4), (2, 2), (2, 3), (2, 4), (3, 2), (3, 3), (3, 4), (4, 3), (4, 4), (5, 4), (6, 4)
+
+ID: 13514
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 5, 5
+Order: 5
+Volume: 30
+Degree: 6/5
+Num Vertices: 3
+Num Boundary: 18
+Num Interior: 7
+Vertices: (-10, -1), (0, 1), (15, 1)
+Dual: (-2/5, 5), (0, -1), (1/5, -1)
+Boundary: (-10, -1), (-5, 0), (0, 1), (1, 1), (2, 1), (3, 1), (4, 1), (5, 1), (6, 1), (7, 1), (8, 1), (9, 1), (10, 1), (11, 1), (12, 1), (13, 1), (14, 1), (15, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0), (1, 0), (2, 0)
+
+ID: 13515
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5
+Order: 5
+Volume: 48
+Degree: 24/5
+Num Vertices: 3
+Num Boundary: 16
+Num Interior: 17
+Vertices: (-1, -1), (-1, 5), (7, 5)
+Dual: (-3, 4), (0, -1/5), (1, 0)
+Boundary: (-1, -1), (-1, 0), (-1, 1), (-1, 2), (-1, 3), (-1, 4), (-1, 5), (0, 5), (1, 5), (2, 5), (3, 2), (3, 5), (4, 5), (5, 5), (6, 5), (7, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4), (2, 2), (2, 3), (2, 4), (3, 3), (3, 4), (4, 3), (4, 4), (5, 4)
+
+ID: 13516
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 5, 5
+Order: 5
+Volume: 40
+Degree: 4/5
+Num Vertices: 3
+Num Boundary: 16
+Num Interior: 13
+Vertices: (-1, -5), (-1, 5), (3, 5)
+Dual: (-1, 2/5), (0, -1/5), (1, 0)
+Boundary: (-1, -5), (-1, -4), (-1, -3), (-1, -2), (-1, -1), (-1, 0), (-1, 1), (-1, 2), (-1, 3), (-1, 4), (-1, 5), (0, 5), (1, 0), (1, 5), (2, 5), (3, 5)
+Interior: (0, -2), (0, -1), (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4), (2, 3), (2, 4)
+
+ID: 13517
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5
+Order: 5
+Volume: 32
+Degree: 8/5
+Num Vertices: 3
+Num Boundary: 16
+Num Interior: 9
+Vertices: (-1, -3), (-1, 5), (3, 5)
+Dual: (-2, 1), (0, -1/5), (1, 0)
+Boundary: (-1, -3), (-1, -2), (-1, -1), (-1, 0), (-1, 1), (-1, 2), (-1, 3), (-1, 4), (-1, 5), (0, -1), (0, 5), (1, 1), (1, 5), (2, 3), (2, 5), (3, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 2), (1, 3), (1, 4), (2, 4)
+
+ID: 13518
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5
+Order: 5
+Volume: 24
+Degree: 12/5
+Num Vertices: 3
+Num Boundary: 16
+Num Interior: 5
+Vertices: (-10, -1), (0, 1), (12, 1)
+Dual: (-1, 11), (0, -1), (1/5, -1)
+Boundary: (-10, -1), (-5, 0), (0, 1), (1, 0), (1, 1), (2, 1), (3, 1), (4, 1), (5, 1), (6, 1), (7, 1), (8, 1), (9, 1), (10, 1), (11, 1), (12, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13519
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5
+Order: 5
+Volume: 27
+Degree: 9/5
+Num Vertices: 3
+Num Boundary: 15
+Num Interior: 7
+Vertices: (-15, -2), (0, 1), (9, 1)
+Dual: (-1, 8), (0, -1), (1/5, -1)
+Boundary: (-15, -2), (-10, -1), (-7, -1), (-5, 0), (0, 1), (1, 0), (1, 1), (2, 1), (3, 1), (4, 1), (5, 1), (6, 1), (7, 1), (8, 1), (9, 1)
+Interior: (-9, -1), (-8, -1), (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13520
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5
+Order: 5
+Volume: 42
+Degree: 42/5
+Num Vertices: 3
+Num Boundary: 14
+Num Interior: 15
+Vertices: (-1, -1), (-1, 5), (6, 5)
+Dual: (-6, 7), (0, -1/5), (1, 0)
+Boundary: (-1, -1), (-1, 0), (-1, 1), (-1, 2), (-1, 3), (-1, 4), (-1, 5), (0, 5), (1, 5), (2, 5), (3, 5), (4, 5), (5, 5), (6, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 1), (1, 2), (1, 3), (1, 4), (2, 2), (2, 3), (2, 4), (3, 3), (3, 4), (4, 4)
+
+ID: 13521
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 5, 5
+Order: 5
+Volume: 30
+Degree: 6/5
+Num Vertices: 3
+Num Boundary: 14
+Num Interior: 9
+Vertices: (-15, -2), (0, 1), (10, 1)
+Dual: (-3/5, 5), (0, -1), (1/5, -1)
+Boundary: (-15, -2), (-10, -1), (-5, 0), (0, 1), (1, 1), (2, 1), (3, 1), (4, 1), (5, 1), (6, 1), (7, 1), (8, 1), (9, 1), (10, 1)
+Interior: (-9, -1), (-8, -1), (-7, -1), (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0), (1, 0)
+
+ID: 13522
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5
+Order: 5
+Volume: 22
+Degree: 22/5
+Num Vertices: 3
+Num Boundary: 14
+Num Interior: 5
+Vertices: (-10, -1), (0, 1), (11, 1)
+Dual: (-2, 21), (0, -1), (1/5, -1)
+Boundary: (-10, -1), (-5, 0), (0, 1), (1, 1), (2, 1), (3, 1), (4, 1), (5, 1), (6, 1), (7, 1), (8, 1), (9, 1), (10, 1), (11, 1)
+Interior: (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13523
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5
+Order: 5
+Volume: 36
+Degree: 24/5
+Num Vertices: 3
+Num Boundary: 12
+Num Interior: 13
+Vertices: (-3, 5), (0, -1), (3, 5)
+Dual: (-2, 1), (0, -1/5), (2, 1)
+Boundary: (-3, 5), (-2, 3), (-2, 5), (-1, 1), (-1, 5), (0, -1), (0, 5), (1, 1), (1, 5), (2, 3), (2, 5), (3, 5)
+Interior: (-2, 4), (-1, 2), (-1, 3), (-1, 4), (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 2), (1, 3), (1, 4), (2, 4)
+
+ID: 13524
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5
+Order: 5
+Volume: 28
+Degree: 28/5
+Num Vertices: 3
+Num Boundary: 12
+Num Interior: 9
+Vertices: (-1, -2), (-1, 5), (3, 5)
+Dual: (-7, 4), (0, -1/5), (1, 0)
+Boundary: (-1, -2), (-1, -1), (-1, 0), (-1, 1), (-1, 2), (-1, 3), (-1, 4), (-1, 5), (0, 5), (1, 5), (2, 5), (3, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 2), (1, 3), (1, 4), (2, 4)
+
+ID: 13525
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5
+Order: 5
+Volume: 24
+Degree: 24/5
+Num Vertices: 3
+Num Boundary: 12
+Num Interior: 7
+Vertices: (-15, -2), (0, 1), (8, 1)
+Dual: (-3, 23), (0, -1), (1/5, -1)
+Boundary: (-15, -2), (-10, -1), (-5, 0), (0, 1), (1, 1), (2, 1), (3, 1), (4, 1), (5, 1), (6, 1), (7, 1), (8, 1)
+Interior: (-9, -1), (-8, -1), (-4, 0), (-3, 0), (-2, 0), (-1, 0), (0, 0)
+
+ID: 13526
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 5, 5
+Order: 3
+Volume: 20
+Degree: 8/5
+Num Vertices: 3
+Num Boundary: 12
+Num Interior: 5
+Vertices: (-5, -1), (0, 1), (10, 1)
+Dual: (-2/5, 3), (0, -1), (2/5, -1)
+Boundary: (-5, -1), (0, 1), (1, 1), (2, 1), (3, 1), (4, 1), (5, 1), (6, 1), (7, 1), (8, 1), (9, 1), (10, 1)
+Interior: (-2, 0), (-1, 0), (0, 0), (1, 0), (2, 0)
+
+ID: 13527
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5
+Order: 5
+Volume: 30
+Degree: 6
+Num Vertices: 3
+Num Boundary: 10
+Num Interior: 11
+Vertices: (-2, 5), (0, -1), (3, 5)
+Dual: (-2, 1), (0, -1/5), (3, 1)
+Boundary: (-2, 5), (-1, 2), (-1, 5), (0, -1), (0, 5), (1, 1), (1, 5), (2, 3), (2, 5), (3, 5)
+Interior: (-1, 3), (-1, 4), (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 2), (1, 3), (1, 4), (2, 4)
+
+ID: 13528
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5
+Order: 3
+Volume: 14
+Degree: 14/5
+Num Vertices: 3
+Num Boundary: 10
+Num Interior: 3
+Vertices: (-5, -1), (0, 1), (7, 1)
+Dual: (-1, 6), (0, -1), (2/5, -1)
+Boundary: (-5, -1), (0, 1), (1, 0), (1, 1), (2, 1), (3, 1), (4, 1), (5, 1), (6, 1), (7, 1)
+Interior: (-2, 0), (-1, 0), (0, 0)
+
+ID: 13529
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5
+Order: 5
+Volume: 24
+Degree: 36/5
+Num Vertices: 3
+Num Boundary: 8
+Num Interior: 9
+Vertices: (-2, 5), (0, -1), (2, 5)
+Dual: (-3, 1), (0, -1/5), (3, 1)
+Boundary: (-2, 5), (-1, 2), (-1, 5), (0, -1), (0, 5), (1, 2), (1, 5), (2, 5)
+Interior: (-1, 3), (-1, 4), (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 3), (1, 4)
+
+ID: 13530
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5
+Order: 5
+Volume: 24
+Degree: 48/5
+Num Vertices: 3
+Num Boundary: 8
+Num Interior: 9
+Vertices: (-1, 5), (0, -1), (3, 5)
+Dual: (-2, 1), (0, -1/5), (6, 1)
+Boundary: (-1, 5), (0, -1), (0, 5), (1, 1), (1, 5), (2, 3), (2, 5), (3, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 2), (1, 3), (1, 4), (2, 4)
+
+ID: 13531
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 5, 5
+Order: 3
+Volume: 20
+Degree: 8/5
+Num Vertices: 3
+Num Boundary: 8
+Num Interior: 7
+Vertices: (-2, 5), (-1, 5), (4, -15)
+Dual: (-4, -1), (0, -1/5), (2, 3/5)
+Boundary: (-2, 5), (-1, 5), (0, 1), (1, -5), (1, -3), (2, -7), (3, -11), (4, -15)
+Interior: (-1, 2), (-1, 3), (-1, 4), (0, -1), (0, 0), (1, -4), (2, -8)
+
+ID: 13532
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5
+Order: 3
+Volume: 16
+Degree: 16/5
+Num Vertices: 3
+Num Boundary: 8
+Num Interior: 5
+Vertices: (-3, 5), (-1, 5), (1, -3)
+Dual: (-4, -1), (0, -1/5), (2, 1)
+Boundary: (-3, 5), (-2, 3), (-2, 5), (-1, 1), (-1, 5), (0, -1), (0, 1), (1, -3)
+Interior: (-2, 4), (-1, 2), (-1, 3), (-1, 4), (0, 0)
+
+ID: 13533
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5
+Order: 3
+Volume: 12
+Degree: 24/5
+Num Vertices: 3
+Num Boundary: 8
+Num Interior: 3
+Vertices: (-5, -1), (0, 1), (6, 1)
+Dual: (-2, 11), (0, -1), (2/5, -1)
+Boundary: (-5, -1), (0, 1), (1, 1), (2, 1), (3, 1), (4, 1), (5, 1), (6, 1)
+Interior: (-2, 0), (-1, 0), (0, 0)
+
+ID: 13534
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5
+Order: 2
+Volume: 12
+Degree: 12/5
+Num Vertices: 3
+Num Boundary: 8
+Num Interior: 3
+Vertices: (-5, -2), (0, 1), (4, 1)
+Dual: (-1, 3), (0, -1), (3/5, -1)
+Boundary: (-5, -2), (-2, -1), (0, 1), (1, 0), (1, 1), (2, 1), (3, 1), (4, 1)
+Interior: (-3, -1), (-1, 0), (0, 0)
+
+ID: 13535
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 5, 5
+Order: 2
+Volume: 15
+Degree: 9/5
+Num Vertices: 3
+Num Boundary: 7
+Num Interior: 5
+Vertices: (-5, -2), (0, 1), (5, 1)
+Dual: (-3/5, 2), (0, -1), (3/5, -1)
+Boundary: (-5, -2), (0, 1), (1, 1), (2, 1), (3, 1), (4, 1), (5, 1)
+Interior: (-3, -1), (-2, -1), (-1, 0), (0, 0), (1, 0)
+
+ID: 13536
+Min Loc Index: 5
+Max Loc Index: 5
+Local Indices: 5, 5, 5
+Order: 3
+Volume: 30
+Degree: 6/5
+Num Vertices: 3
+Num Boundary: 6
+Num Interior: 13
+Vertices: (-3, 5), (-1, 5), (3, -10)
+Dual: (-3, -4/5), (0, -1/5), (1, 2/5)
+Boundary: (-3, 5), (-2, 5), (-1, 0), (-1, 5), (1, -5), (3, -10)
+Interior: (-2, 3), (-2, 4), (-1, 1), (-1, 2), (-1, 3), (-1, 4), (0, -2), (0, -1), (0, 0), (0, 1), (1, -4), (1, -3), (2, -7)
+
+ID: 13537
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5
+Order: 5
+Volume: 18
+Degree: 54/5
+Num Vertices: 3
+Num Boundary: 6
+Num Interior: 7
+Vertices: (-1, 5), (0, -1), (2, 5)
+Dual: (-3, 1), (0, -1/5), (6, 1)
+Boundary: (-1, 5), (0, -1), (0, 5), (1, 2), (1, 5), (2, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (1, 3), (1, 4)
+
+ID: 13538
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5
+Order: 2
+Volume: 9
+Degree: 27/5
+Num Vertices: 3
+Num Boundary: 5
+Num Interior: 3
+Vertices: (-5, -2), (0, 1), (3, 1)
+Dual: (-3, 8), (0, -1), (3/5, -1)
+Boundary: (-5, -2), (0, 1), (1, 1), (2, 1), (3, 1)
+Interior: (-3, -1), (-1, 0), (0, 0)
+
+ID: 13539
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5
+Order: 5
+Volume: 12
+Degree: 72/5
+Num Vertices: 3
+Num Boundary: 4
+Num Interior: 5
+Vertices: (-1, 5), (0, -1), (1, 5)
+Dual: (-6, 1), (0, -1/5), (6, 1)
+Boundary: (-1, 5), (0, -1), (0, 5), (1, 5)
+Interior: (0, 0), (0, 1), (0, 2), (0, 3), (0, 4)
+
+ID: 13540
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5
+Order: 2
+Volume: 8
+Degree: 32/5
+Num Vertices: 3
+Num Boundary: 4
+Num Interior: 3
+Vertices: (-2, 5), (-1, 5), (1, -3)
+Dual: (-4, -1), (0, -1/5), (8, 3)
+Boundary: (-2, 5), (-1, 5), (0, 1), (1, -3)
+Interior: (-1, 3), (-1, 4), (0, 0)
+
+ID: 13541
+Min Loc Index: 1
+Max Loc Index: 5
+Local Indices: 1, 1, 5
+Order: 3
+Volume: 7
+Degree: 49/5
+Num Vertices: 3
+Num Boundary: 3
+Num Interior: 3
+Vertices: (-3, 5), (-2, 5), (1, -2)
+Dual: (-7, -3), (0, -1/5), (7, 4)
+Boundary: (-3, 5), (-2, 5), (1, -2)
+Interior: (-2, 4), (-1, 2), (0, 0)
+
